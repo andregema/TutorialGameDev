@@ -1,0 +1,1407 @@
+﻿Log file open, 10/14/17 13:49:29
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Tutorial2_AndreGema
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1514893901) SRandInit(-1514893901).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.263509
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.10.14-06.49.30:659][  0]LogInit: Selected Device Profile: [Windows]
+[2017.10.14-06.49.30:659][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.10.14-06.49.30:826][  0]LogInit: Computer: ANDRE-PC
+[2017.10.14-06.49.30:826][  0]LogInit: User: Andre
+[2017.10.14-06.49.30:826][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.10.14-06.49.30:826][  0]LogInit: High frequency timer resolution =2.435781 MHz
+[2017.10.14-06.49.30:826][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2017.10.14-06.49.30:826][  0]LogMemory: Platform Memory Stats for Windows
+[2017.10.14-06.49.30:826][  0]LogMemory: Process Physical Memory: 279.32 MB used, 279.32 MB peak
+[2017.10.14-06.49.30:826][  0]LogMemory: Process Virtual Memory: 290.21 MB used, 290.21 MB peak
+[2017.10.14-06.49.30:826][  0]LogMemory: Physical Memory: 6722.86 MB used,  1381.41 MB free, 8104.27 MB total
+[2017.10.14-06.49.30:826][  0]LogMemory: Virtual Memory: 685.03 MB used,  1381.41 MB free, 134217728.00 MB total
+[2017.10.14-06.49.31:053][  0]LogInit: Using OS detected language (en-US).
+[2017.10.14-06.49.31:053][  0]LogInit: Using OS detected locale (en-GB).
+[2017.10.14-06.49.31:339][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.10.14-06.49.43:376][  0]LogD3D11RHI: D3D11 adapters:
+[2017.10.14-06.49.44:429][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 860M' (Feature Level 11_0)
+[2017.10.14-06.49.44:429][  0]LogD3D11RHI:       4065/0/4052 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.10.14-06.49.44:434][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2017.10.14-06.49.44:434][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2017.10.14-06.49.44:436][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.10.14-06.49.44:436][  0]LogD3D11RHI:       0/0/4052 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.10.14-06.49.44:436][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.10.14-06.49.44:442][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.10.14-06.49.44:442][  0]LogD3D11RHI:     GPU DeviceId: 0x1392 (for the marketing name, search the web for "GPU Device Id")
+[2017.10.14-06.49.44:442][  0]LogWindows: EnumDisplayDevices:
+[2017.10.14-06.49.44:442][  0]LogWindows:    0. 'Intel(R) HD Graphics 4600' (P:1 D:1)
+[2017.10.14-06.49.44:442][  0]LogWindows:    1. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2017.10.14-06.49.44:442][  0]LogWindows:    2. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2017.10.14-06.49.44:443][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2017.10.14-06.49.44:443][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 860M
+[2017.10.14-06.49.44:443][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2017.10.14-06.49.44:443][  0]LogD3D11RHI:      Driver Date: Unknown
+[2017.10.14-06.49.44:443][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.10.14-06.49.44:467][  0]LogD3D11RHI: Async texture creation enabled
+[2017.10.14-06.49.44:479][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.10.14-06.49.44:480][  0]LogShaderCompilers: Guid format shader working directory is -52 characters bigger than the processId version (../../../../../../Users/Andre/Documents/Unreal Projects/TutorialGameDev2/Tutorial2_AndreGema 4.17/Intermediate/Shaders/WorkingDirectory/15836/).
+[2017.10.14-06.49.44:480][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Andre/AppData/Local/Temp/UnrealShaderWorkingDir/BB5F862D4831DC967E4A07B9D98F9632/'.
+[2017.10.14-06.49.44:480][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.10.14-06.49.53:958][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.10.14-06.49.54:018][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.10.14-06.49.54:078][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.10.14-06.49.54:139][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.10.14-06.49.54:206][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.10.14-06.49.54:264][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.10.14-06.49.54:324][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.10.14-06.49.54:384][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.10.14-06.49.54:437][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.10.14-06.49.54:516][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.10.14-06.49.54:572][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.10.14-06.49.54:632][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.10.14-06.49.54:689][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.10.14-06.49.54:764][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.10.14-06.49.54:820][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.10.14-06.49.54:934][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.10.14-06.49.54:934][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.10.14-06.49.54:981][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.10.14-06.49.55:186][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.10.14-06.49.55:220][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.10.14-06.49.55:277][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.10.14-06.49.55:333][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.10.14-06.49.55:395][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.10.14-06.49.55:479][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.10.14-06.49.55:479][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.10.14-06.49.56:174][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.10.14-06.49.56:330][  0]LogDerivedDataCache: Loaded boot cache 0.16s 93MB C:/Users/Andre/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.10.14-06.49.56:330][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Andre/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.10.14-06.49.56:330][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Andre/Documents/Unreal Projects/TutorialGameDev2/Tutorial2_AndreGema 4.17/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.10.14-06.49.56:330][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.10.14-06.49.56:330][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Andre/Documents/Unreal Projects/TutorialGameDev2/Tutorial2_AndreGema 4.17/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.10.14-06.49.56:330][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.10.14-06.49.56:353][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.10.14-06.49.56:365][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Andre/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.10.14-06.49.56:382][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.10.14-06.49.56:383][  0]LogSlate: Using Freetype 2.6.0
+[2017.10.14-06.49.56:407][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.10.14-06.49.56:407][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.10.14-06.49.58:788][  0]LogAssetRegistry: FAssetRegistry took 0.0258 seconds to start up
+[2017.10.14-06.49.58:912][  0]LogInit: Selected Device Profile: [Windows]
+[2017.10.14-06.49.59:858][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.10.14-06.50.00:236][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.10.14-06.50.00:283][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.10.14-06.50.00:283][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.10.14-06.50.00:283][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.10.14-06.50.00:283][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.10.14-06.50.00:283][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.10.14-06.50.04:563][  0]LogNetVersion: Tutorial2_AndreGema , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 4002641178)
+[2017.10.14-06.50.07:290][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.338631 seconds
+[2017.10.14-06.50.07:298][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.10.14-06.50.07:298][  0]LogUObjectAllocator: 7529112 out of 0 bytes used by permanent object pool.
+[2017.10.14-06.50.07:298][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.10.14-06.50.07:418][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.10.14-06.50.35:055][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.10.14-06.50.35:102][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.10.14-06.50.36:704][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.10.14-06.50.37:470][  0]SourceControl: Source control is disabled
+[2017.10.14-06.50.37:470][  0]SourceControl: Source control is disabled
+[2017.10.14-06.50.37:528][  0]SourceControl: Source control is disabled
+[2017.10.14-06.50.37:584][  0]SourceControl: Source control is disabled
+[2017.10.14-06.50.38:670][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.10.14-06.50.38:961][  0]LogOcInput: OculusInput pre-init called
+[2017.10.14-06.50.39:403][  0]LogEngine: Initializing Engine...
+[2017.10.14-06.50.39:419][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2017.10.14-06.50.40:298][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.10.14-06.50.40:298][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.10.14-06.50.40:503][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.10.14-06.50.40:510][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.14-06.50.40:525][  0]LogInit: FAudioDevice initialized.
+[2017.10.14-06.50.40:784][  0]LogDerivedDataCache: Saved boot cache 0.26s 93MB C:/Users/Andre/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.10.14-06.50.40:804][  0]LogInit: Texture streaming: Enabled
+[2017.10.14-06.50.40:941][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.10.14-06.50.41:547][  0]LogInit: Transaction tracking system initialized
+[2017.10.14-06.50.41:913][  0]BlueprintLog: New page: Editor Load
+[2017.10.14-06.50.43:180][  0]LocalizationService: Localization service is disabled
+[2017.10.14-06.50.44:297][  0]LogConsoleResponse: Display: 
+[2017.10.14-06.50.45:384][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Andre/Documents/Unreal Projects/TutorialGameDev2/Tutorial2_AndreGema 4.17/Content/' took 0.10s
+[2017.10.14-06.50.45:384][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.10.14-06.50.45:384][  0]LogCook: Display: Mobile HDR setting 1
+[2017.10.14-06.50.45:384][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.10.14-06.50.47:393][  0]SourceControl: Source control is disabled
+[2017.10.14-06.50.47:440][  0]LightingResults: New page: Lighting Build
+[2017.10.14-06.50.47:496][  0]MapCheck: New page: Map Check
+[2017.10.14-06.50.47:496][  0]LightingResults: New page: Lighting Build
+[2017.10.14-06.50.49:792][  0]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2017.10.14-06.50.50:157][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.10.14-06.50.50:232][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.10.14-06.50.50:285][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 52.94ms to complete.
+[2017.10.14-06.50.50:285][  0]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 2.892
+[2017.10.14-06.50.52:300][  0]LogCollectionManager: Loaded 0 collections in 0.021857 seconds
+[2017.10.14-06.50.52:685][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Andre/Documents/Unreal Projects/TutorialGameDev2/Tutorial2_AndreGema 4.17/Saved/Collections/' took 0.01s
+[2017.10.14-06.50.52:685][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Andre/Documents/Unreal Projects/TutorialGameDev2/Tutorial2_AndreGema 4.17/Content/Developers/Andre/Collections/' took 0.01s
+[2017.10.14-06.50.52:685][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Andre/Documents/Unreal Projects/TutorialGameDev2/Tutorial2_AndreGema 4.17/Content/Collections/' took 0.01s
+[2017.10.14-06.50.52:685][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2017.10.14-06.50.52:720][  0]LogContentBrowser: Native class hierarchy populated in 0.0151 seconds. Added 2386 classes and 500 folders.
+[2017.10.14-06.50.52:887][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2017.10.14-06.50.55:921][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0010 seconds. Added 0 classes and 0 folders.
+[2017.10.14-06.50.56:091][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2017.10.14-06.50.58:183][  0]LogSlate: Took 0.054653 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.10.14-06.50.58:205][  0]LogSlate: Took 0.020357 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.10.14-06.50.58:252][  0]LogSlate: Took 0.022345 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.10.14-06.50.58:804][  0]LogRenderer: Reallocating scene render targets to support 928x436 Format 10 NumSamples 1 (Frame:1).
+[2017.10.14-06.50.59:455][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2017.10.14-06.50.59:455][  0]LogLoad: (Engine Initialization) Total time: 94.73 seconds
+[2017.10.14-06.50.59:455][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.10.14-06.50.59:455][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.10.14-06.50.59:455][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.10.14-06.50.59:942][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.10.14-06.51.01:648][  3]LogAssetRegistry: Asset discovery search completed in 62.8813 seconds
+[2017.10.14-06.51.01:652][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2017.10.14-06.51.01:653][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000049 seconds (updated 0 objects)
+[2017.10.14-06.53.28:267][224]LogSlate: Took 0.154456 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.14-06.53.28:472][224]LogMetaData: Removing '/Game/2DSideScrollerBP/Blueprints/EnemyBP.SKEL_EnemyBP_C' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/MovingPlatrormBP_2.PackageMetaData'
+[2017.10.14-06.53.28:472][224]LogMetaData: Removing '/Game/2DSideScrollerBP/Blueprints/EnemyBP.EnemyBP_C' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/MovingPlatrormBP_2.PackageMetaData'
+[2017.10.14-06.53.28:772][224]LogSavePackage: Save=165.08ms
+[2017.10.14-06.53.28:773][224]LogSavePackage: Moving '../../../../../../Users/Andre/Documents/Unreal Projects/TutorialGameDev2/Tutorial2_AndreGema 4.17/Saved/EnemyBP326E63E342CF163375EAEDB11509455A.tmp' to '../../../../../../Users/Andre/Documents/Unreal Projects/TutorialGameDev2/Tutorial2_AndreGema 4.17/Content/2DSideScrollerBP/Blueprints/EnemyBP.uasset'
+[2017.10.14-06.53.28:855][224]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Andre/Documents/Unreal Projects/TutorialGameDev2/Tutorial2_AndreGema 4.17/Content/2DSideScrollerBP/Blueprints/EnemyBP.uasset
+[2017.10.14-06.53.31:257][347]LogSlate: Took 0.149606 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.10.14-06.53.31:719][347]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0012 seconds. Added 113 classes and 0 folders.
+[2017.10.14-06.53.34:915][347]LogSlate: Took 0.038882 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.10.14-06.53.36:639][348]LogSlate: Took 0.039055 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.10.14-06.54.40:339][298]LogSlate: Took 0.024805 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.14-06.54.44:590][423]LogRenderer: Reallocating scene render targets to support 1220x704 Format 10 NumSamples 1 (Frame:1).
+[2017.10.14-06.54.44:590][423]LogSlate: Took 0.000178 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.14-06.56.56:097][769]BlueprintLog: New page: Compile EnemyBP
+[2017.10.14-06.56.56:242][769]LogBlueprint: Error: [Compiler EnemyBP] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2017.10.14-06.56.56:746][769]LogBlueprint: Warning: [Compiler EnemyBP] [0452.02] Compile of EnemyBP failed. 1 Fatal Issue(s) 0 Warning(s) [in 648 ms] (/Game/2DSideScrollerBP/Blueprints/EnemyBP.EnemyBP)
+[2017.10.14-06.57.16:235][ 20]BlueprintLog: New page: Compile EnemyBP
+[2017.10.14-06.57.33:296][532]LogAIModule: Creating AISystem for world MyLevel
+[2017.10.14-06.57.35:931][532]LogSavePackage: Save=74.09ms
+[2017.10.14-06.57.35:931][532]LogSavePackage: Moving '../../../../../../Users/Andre/Documents/Unreal Projects/TutorialGameDev2/Tutorial2_AndreGema 4.17/Saved/EnemyBP9538D2284C0BF12BEFA22083B33D9357.tmp' to '../../../../../../Users/Andre/Documents/Unreal Projects/TutorialGameDev2/Tutorial2_AndreGema 4.17/Content/2DSideScrollerBP/Blueprints/EnemyBP.uasset'
+[2017.10.14-06.57.35:963][532]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Andre/Documents/Unreal Projects/TutorialGameDev2/Tutorial2_AndreGema 4.17/Content/2DSideScrollerBP/Blueprints/EnemyBP.uasset
+[2017.10.14-06.57.35:964][532]Cmd: MAP LOAD FILE="../../../../../../Users/Andre/Documents/Unreal Projects/TutorialGameDev2/Tutorial2_AndreGema 4.17/Content/2DSideScrollerBP/Maps/MyLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.10.14-06.57.35:964][532]LightingResults: New page: Lighting Build
+[2017.10.14-06.57.35:965][532]LoadErrors: New page: Loading map: MyLevel.umap
+[2017.10.14-06.57.36:080][532]MapCheck: New page: Map Check
+[2017.10.14-06.57.36:080][532]LightingResults: New page: Lighting Build
+[2017.10.14-06.57.36:373][532]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.10.14-06.57.36:435][532]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.10.14-06.57.36:514][532]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 77.619ms to complete.
+[2017.10.14-06.57.36:514][532]LogFileHelpers: Loading map 'MyLevel' took 0.551
+[2017.10.14-06.57.53:669][190]LogEditorViewport: Clicking on Actor (LMB): EnemyBP_C (EnemyBP)
+[2017.10.14-06.57.57:037][519]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.14-06.57.57:893][519]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2017.10.14-06.57.57:899][519]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.14-06.57.57:977][519]PIE: New page: PIE session: MyLevel (14 Oct 2017 20:57:57)
+[2017.10.14-06.57.58:007][519]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_MyLevel
+[2017.10.14-06.57.58:076][519]LogPlayLevel: PIE: StaticDuplicateObject took: (0.069017s)
+[2017.10.14-06.57.58:077][519]LogAIModule: Creating AISystem for world MyLevel
+[2017.10.14-06.57.58:077][519]LogPlayLevel: PIE: World Init took: (0.000902s)
+[2017.10.14-06.57.58:091][519]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/MyLevel.MyLevel to /Game/2DSideScrollerBP/Maps/UEDPIE_0_MyLevel.MyLevel (0.096678s)
+[2017.10.14-06.57.58:142][519]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.14-06.57.58:155][519]LogInit: FAudioDevice initialized.
+[2017.10.14-06.57.58:301][519]LogLoad: Game class is 'MyGameMode_C'
+[2017.10.14-06.57.58:568][519]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_MyLevel.MyLevel up for play (max tick rate 0) at 2017.10.14-13.57.58
+[2017.10.14-06.57.58:651][519]LogWorld: Bringing up level for play took: 0.086125
+[2017.10.14-06.57.58:978][519]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0009 seconds. Added 11 classes and 0 folders.
+[2017.10.14-06.57.59:132][519]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_MyLevel 2.053
+[2017.10.14-06.57.59:133][519]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2017.10.14-06.58.03:695][877]LogBlueprintUserMessages: [2DSideScrollerCharacter_C_0] 1
+[2017.10.14-06.58.03:809][878]LogBlueprintUserMessages: [2DSideScrollerCharacter_C_0] 2
+[2017.10.14-06.58.06:449][164]LogBlueprintUserMessages: [2DSideScrollerCharacter_C_0] 3
+[2017.10.14-06.58.11:129][718]LogNet: Browse: /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap
+[2017.10.14-06.58.11:136][718]LogLoad: LoadMap: /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap
+[2017.10.14-06.58.11:174][718]Cmd: MEM
+[2017.10.14-06.58.11:344][718]LogMemory: Platform Memory Stats for Windows
+[2017.10.14-06.58.11:344][718]LogMemory: Process Physical Memory: 1417.69 MB used, 1445.71 MB peak
+[2017.10.14-06.58.11:344][718]LogMemory: Process Virtual Memory: 1960.98 MB used, 2076.29 MB peak
+[2017.10.14-06.58.11:344][718]LogMemory: Physical Memory: 6945.50 MB used,  1158.77 MB free, 8104.27 MB total
+[2017.10.14-06.58.11:344][718]LogMemory: Virtual Memory: 2792.22 MB used,  1158.77 MB free, 134217728.00 MB total
+[2017.10.14-06.58.11:344][718]LogMemory: 
+[2017.10.14-06.58.11:344][718]Allocator Stats for TBB: (not implemented)
+[2017.10.14-06.58.12:145][718]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2017.10.14-06.58.12:146][718]LogLoad: Game class is 'MyGameMode_C'
+[2017.10.14-06.58.12:149][718]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2017.10.14-13.58.12
+[2017.10.14-06.58.12:177][718]LogWorld: Bringing up level for play took: 0.030661
+[2017.10.14-06.58.12:260][718]LogLoad: Took 1.124741 seconds to LoadMap(/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap)
+[2017.10.14-06.58.14:189][933]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2017.10.14-06.58.14:417][933]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2017.10.14-07.07.50:870][345]LogSavePackage: Save=134.18ms
+[2017.10.14-07.07.50:870][345]LogSavePackage: Moving '../../../../../../Users/Andre/Documents/Unreal Projects/TutorialGameDev2/Tutorial2_AndreGema 4.17/Saved/MyLevel_Auto16B1230994DBE70D10F60D38B5B81EB6C.tmp' to '../../../../../../Users/Andre/Documents/Unreal Projects/TutorialGameDev2/Tutorial2_AndreGema 4.17/Saved/Autosaves/Game/2DSideScrollerBP/Maps/MyLevel_Auto1.umap'
+[2017.10.14-07.07.50:871][345]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Andre/Documents/Unreal Projects/TutorialGameDev2/Tutorial2_AndreGema 4.17/Saved/Autosaves/Game/2DSideScrollerBP/Maps/MyLevel_Auto1.umap
+[2017.10.14-07.07.50:891][345]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/MyLevel' took 0.339
+[2017.10.14-07.07.50:891][345]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.339
+[2017.10.14-07.07.50:915][345]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScrollerBP/Blueprints/EnemyBP] ([1] browsable assets)...
+[2017.10.14-07.07.50:915][345]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Blueprints/EnemyBP]
+[2017.10.14-07.07.50:985][345]LogSavePackage: Save=59.06ms
+[2017.10.14-07.07.50:985][345]LogSavePackage: Moving '../../../../../../Users/Andre/Documents/Unreal Projects/TutorialGameDev2/Tutorial2_AndreGema 4.17/Saved/EnemyBP_Auto1157CF13B4BBE3CCCAA938DAA956764CF.tmp' to '../../../../../../Users/Andre/Documents/Unreal Projects/TutorialGameDev2/Tutorial2_AndreGema 4.17/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/EnemyBP_Auto1.uasset'
+[2017.10.14-07.07.51:014][345]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Andre/Documents/Unreal Projects/TutorialGameDev2/Tutorial2_AndreGema 4.17/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/EnemyBP_Auto1.uasset
+[2017.10.14-07.07.51:014][345]LogFileHelpers: Auto-saving content packages took 0.114
+[2017.10.14-07.18.54:584][ 84]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/MyLevel' took 0.027
+[2017.10.14-07.18.54:585][ 84]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScrollerBP/Blueprints/EnemyBP] ([1] browsable assets)...
+[2017.10.14-07.18.54:586][ 84]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Blueprints/EnemyBP]
+[2017.10.14-07.18.54:693][ 84]LogSavePackage: Save=83.67ms
+[2017.10.14-07.18.54:693][ 84]LogSavePackage: Moving '../../../../../../Users/Andre/Documents/Unreal Projects/TutorialGameDev2/Tutorial2_AndreGema 4.17/Saved/EnemyBP_Auto2A390B6AD46A7D136310BCB9F1BFA1059.tmp' to '../../../../../../Users/Andre/Documents/Unreal Projects/TutorialGameDev2/Tutorial2_AndreGema 4.17/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/EnemyBP_Auto2.uasset'
+[2017.10.14-07.18.54:809][ 84]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Andre/Documents/Unreal Projects/TutorialGameDev2/Tutorial2_AndreGema 4.17/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/EnemyBP_Auto2.uasset
+[2017.10.14-07.18.54:809][ 84]LogFileHelpers: Auto-saving content packages took 0.224
+[2017.10.14-07.25.33:135][361]LogEditorTransaction: Undo Move Nodes
+[2017.10.14-07.27.17:755][416]LogEditorTransaction: Undo Add Node
+[2017.10.14-07.29.58:764][259]LogSavePackage: Save=109.88ms
+[2017.10.14-07.29.58:764][259]LogSavePackage: Moving '../../../../../../Users/Andre/Documents/Unreal Projects/TutorialGameDev2/Tutorial2_AndreGema 4.17/Saved/MyLevel_Auto3930B4D654E9E9937811FEB82A64A298F.tmp' to '../../../../../../Users/Andre/Documents/Unreal Projects/TutorialGameDev2/Tutorial2_AndreGema 4.17/Saved/Autosaves/Game/2DSideScrollerBP/Maps/MyLevel_Auto3.umap'
+[2017.10.14-07.29.58:790][259]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Andre/Documents/Unreal Projects/TutorialGameDev2/Tutorial2_AndreGema 4.17/Saved/Autosaves/Game/2DSideScrollerBP/Maps/MyLevel_Auto3.umap
+[2017.10.14-07.29.58:796][259]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/MyLevel' took 0.297
+[2017.10.14-07.29.58:796][259]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.297
+[2017.10.14-07.29.58:799][259]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter] ([1] browsable assets)...
+[2017.10.14-07.29.58:799][259]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter]
+[2017.10.14-07.29.58:978][259]LogSavePackage: Save=163.15ms
+[2017.10.14-07.29.58:979][259]LogSavePackage: Moving '../../../../../../Users/Andre/Documents/Unreal Projects/TutorialGameDev2/Tutorial2_AndreGema 4.17/Saved/2DSideScrollerCharacter_Auto37CFF6C2349086BFA919C55A62324812E.tmp' to '../../../../../../Users/Andre/Documents/Unreal Projects/TutorialGameDev2/Tutorial2_AndreGema 4.17/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter_Auto3.uasset'
+[2017.10.14-07.29.59:030][259]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Andre/Documents/Unreal Projects/TutorialGameDev2/Tutorial2_AndreGema 4.17/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter_Auto3.uasset
+[2017.10.14-07.29.59:031][259]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScrollerBP/Blueprints/EnemyBP] ([1] browsable assets)...
+[2017.10.14-07.29.59:031][259]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Blueprints/EnemyBP]
+[2017.10.14-07.29.59:128][259]LogSavePackage: Save=82.95ms
+[2017.10.14-07.29.59:128][259]LogSavePackage: Moving '../../../../../../Users/Andre/Documents/Unreal Projects/TutorialGameDev2/Tutorial2_AndreGema 4.17/Saved/EnemyBP_Auto375BB8C2B4CC31CD6B24927ABC67705ED.tmp' to '../../../../../../Users/Andre/Documents/Unreal Projects/TutorialGameDev2/Tutorial2_AndreGema 4.17/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/EnemyBP_Auto3.uasset'
+[2017.10.14-07.29.59:129][259]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Andre/Documents/Unreal Projects/TutorialGameDev2/Tutorial2_AndreGema 4.17/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/EnemyBP_Auto3.uasset
+[2017.10.14-07.29.59:130][259]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScrollerBP/Blueprints/CoinBP] ([1] browsable assets)...
+[2017.10.14-07.29.59:130][259]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Blueprints/CoinBP]
+[2017.10.14-07.29.59:196][259]LogSavePackage: Save=53.12ms
+[2017.10.14-07.29.59:197][259]LogSavePackage: Moving '../../../../../../Users/Andre/Documents/Unreal Projects/TutorialGameDev2/Tutorial2_AndreGema 4.17/Saved/CoinBP_Auto3B667455847E478CA3936A1A1D3BBABE3.tmp' to '../../../../../../Users/Andre/Documents/Unreal Projects/TutorialGameDev2/Tutorial2_AndreGema 4.17/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/CoinBP_Auto3.uasset'
+[2017.10.14-07.29.59:199][259]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Andre/Documents/Unreal Projects/TutorialGameDev2/Tutorial2_AndreGema 4.17/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/CoinBP_Auto3.uasset
+[2017.10.14-07.29.59:199][259]LogFileHelpers: Auto-saving content packages took 0.402
+[2017.10.14-07.30.31:108][193]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.14-07.30.31:146][193]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2017.10.14-07.30.31:146][193]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.10.14-07.30.31:162][193]LogPlayLevel: [PlayLevel] Compiling EnemyBP before play...
+[2017.10.14-07.30.31:281][193]LogBlueprint: Warning: [Compiler EnemyBP] 'Enemy BP' does not inherit from 'Scene Component' ( Cast To EnemyBP  would always fail).
+[2017.10.14-07.30.31:286][193]LogBlueprint: Warning: [Compiler EnemyBP] [2466.56] Compile of EnemyBP successful, but with 1 Warning(s) [in 125 ms] (/Game/2DSideScrollerBP/Blueprints/EnemyBP.EnemyBP)
+[2017.10.14-07.30.31:618][193]LogPlayLevel: [PlayLevel] Compiling CoinBP before play...
+[2017.10.14-07.30.31:622][193]LogPlayLevel: [PlayLevel]   Compiling MyLevel as a dependent...
+[2017.10.14-07.30.32:126][193]LogPlayLevel: PlayLevel: Blueprint regeneration took 979 ms (3 blueprints)
+[2017.10.14-07.30.32:126][193]PIE: New page: PIE session: MyLevel (14 Oct 2017 21:30:32)
+[2017.10.14-07.30.32:126][193]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_MyLevel
+[2017.10.14-07.30.32:130][193]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003887s)
+[2017.10.14-07.30.32:131][193]LogAIModule: Creating AISystem for world MyLevel
+[2017.10.14-07.30.32:131][193]LogPlayLevel: PIE: World Init took: (0.001084s)
+[2017.10.14-07.30.32:131][193]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/MyLevel.MyLevel to /Game/2DSideScrollerBP/Maps/UEDPIE_0_MyLevel.MyLevel (0.005269s)
+[2017.10.14-07.30.32:160][193]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.14-07.30.32:174][193]LogInit: FAudioDevice initialized.
+[2017.10.14-07.30.32:209][193]LogLoad: Game class is 'MyGameMode_C'
+[2017.10.14-07.30.32:213][193]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_MyLevel.MyLevel up for play (max tick rate 0) at 2017.10.14-14.30.32
+[2017.10.14-07.30.32:214][193]LogWorld: Bringing up level for play took: 0.004084
+[2017.10.14-07.30.32:216][193]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_MyLevel 1.137
+[2017.10.14-07.30.32:217][193]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2017.10.14-07.30.33:672][283]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2017.10.14-07.30.33:713][283]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2017.10.14-07.30.34:496][314]BlueprintLog: New page: Compile EnemyBP
+[2017.10.14-07.30.34:533][314]LogBlueprint: Warning: [Compiler EnemyBP] 'Enemy BP' does not inherit from 'Scene Component' ( Cast To EnemyBP  would always fail).
+[2017.10.14-07.30.34:849][314]LogBlueprint: Warning: [Compiler EnemyBP] [2470.13] Compile of EnemyBP successful, but with 1 Warning(s) [in 353 ms] (/Game/2DSideScrollerBP/Blueprints/EnemyBP.EnemyBP)
+[2017.10.14-07.40.02:754][281]LogSavePackage: Save=118.01ms
+[2017.10.14-07.40.02:754][281]LogSavePackage: Moving '../../../../../../Users/Andre/Documents/Unreal Projects/TutorialGameDev2/Tutorial2_AndreGema 4.17/Saved/MyLevel_Auto4616669114A9D3D1CBDA62E90713355C8.tmp' to '../../../../../../Users/Andre/Documents/Unreal Projects/TutorialGameDev2/Tutorial2_AndreGema 4.17/Saved/Autosaves/Game/2DSideScrollerBP/Maps/MyLevel_Auto4.umap'
+[2017.10.14-07.40.02:758][281]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Andre/Documents/Unreal Projects/TutorialGameDev2/Tutorial2_AndreGema 4.17/Saved/Autosaves/Game/2DSideScrollerBP/Maps/MyLevel_Auto4.umap
+[2017.10.14-07.40.02:760][281]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/MyLevel' took 0.280
+[2017.10.14-07.40.02:760][281]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.280
+[2017.10.14-07.40.02:762][281]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScrollerBP/Blueprints/EnemyBP] ([1] browsable assets)...
+[2017.10.14-07.40.02:762][281]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Blueprints/EnemyBP]
+[2017.10.14-07.40.02:880][281]LogSavePackage: Save=99.66ms
+[2017.10.14-07.40.02:880][281]LogSavePackage: Moving '../../../../../../Users/Andre/Documents/Unreal Projects/TutorialGameDev2/Tutorial2_AndreGema 4.17/Saved/EnemyBP_Auto43A3F39514EE67ABE1D889694E0EE025C.tmp' to '../../../../../../Users/Andre/Documents/Unreal Projects/TutorialGameDev2/Tutorial2_AndreGema 4.17/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/EnemyBP_Auto4.uasset'
+[2017.10.14-07.40.02:882][281]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Andre/Documents/Unreal Projects/TutorialGameDev2/Tutorial2_AndreGema 4.17/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/EnemyBP_Auto4.uasset
+[2017.10.14-07.40.02:883][281]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScrollerBP/Blueprints/CoinBP] ([1] browsable assets)...
+[2017.10.14-07.40.02:883][281]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Blueprints/CoinBP]
+[2017.10.14-07.40.02:935][281]LogSavePackage: Save=36.93ms
+[2017.10.14-07.40.02:936][281]LogSavePackage: Moving '../../../../../../Users/Andre/Documents/Unreal Projects/TutorialGameDev2/Tutorial2_AndreGema 4.17/Saved/CoinBP_Auto42228EB9D4F6D15A29C16EAAF7CE2795C.tmp' to '../../../../../../Users/Andre/Documents/Unreal Projects/TutorialGameDev2/Tutorial2_AndreGema 4.17/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/CoinBP_Auto4.uasset'
+[2017.10.14-07.40.02:938][281]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Andre/Documents/Unreal Projects/TutorialGameDev2/Tutorial2_AndreGema 4.17/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/CoinBP_Auto4.uasset
+[2017.10.14-07.40.02:938][281]LogFileHelpers: Auto-saving content packages took 0.177
+[2017.10.14-07.53.56:027][  9]BlueprintLog: New page: Compile EnemyBP
+[2017.10.14-07.54.00:092][277]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.14-07.54.00:138][277]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2017.10.14-07.54.00:138][277]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.14-07.54.00:138][277]PIE: New page: PIE session: MyLevel (14 Oct 2017 21:54:00)
+[2017.10.14-07.54.00:138][277]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_MyLevel
+[2017.10.14-07.54.00:142][277]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003111s)
+[2017.10.14-07.54.00:143][277]LogAIModule: Creating AISystem for world MyLevel
+[2017.10.14-07.54.00:143][277]LogPlayLevel: PIE: World Init took: (0.001128s)
+[2017.10.14-07.54.00:143][277]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/MyLevel.MyLevel to /Game/2DSideScrollerBP/Maps/UEDPIE_0_MyLevel.MyLevel (0.004531s)
+[2017.10.14-07.54.00:170][277]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.14-07.54.00:184][277]LogInit: FAudioDevice initialized.
+[2017.10.14-07.54.00:216][277]LogLoad: Game class is 'MyGameMode_C'
+[2017.10.14-07.54.00:220][277]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_MyLevel.MyLevel up for play (max tick rate 0) at 2017.10.14-14.54.00
+[2017.10.14-07.54.00:221][277]LogWorld: Bringing up level for play took: 0.004633
+[2017.10.14-07.54.00:224][277]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_MyLevel -0.855
+[2017.10.14-07.54.00:224][277]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2017.10.14-07.54.03:567][648]LogBlueprintUserMessages: [2DSideScrollerCharacter_C_0] 1
+[2017.10.14-07.54.03:708][652]LogBlueprintUserMessages: [EnemyBP_322] 28.829956
+[2017.10.14-07.54.08:434][171]LogBlueprintUserMessages: [EnemyBP_322] 85.134766
+[2017.10.14-07.54.10:664][436]LogBlueprintUserMessages: [2DSideScrollerCharacter_C_0] 2
+[2017.10.14-07.54.13:228][710]LogBlueprintUserMessages: [2DSideScrollerCharacter_C_0] 3
+[2017.10.14-07.54.18:139][245]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2017.10.14-07.54.18:189][245]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2017.10.14-07.54.19:721][386]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.14-07.54.19:753][386]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2017.10.14-07.54.19:753][386]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.14-07.54.19:753][386]PIE: New page: PIE session: MyLevel (14 Oct 2017 21:54:19)
+[2017.10.14-07.54.19:753][386]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_MyLevel
+[2017.10.14-07.54.19:757][386]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004273s)
+[2017.10.14-07.54.19:758][386]LogAIModule: Creating AISystem for world MyLevel
+[2017.10.14-07.54.19:758][386]LogPlayLevel: PIE: World Init took: (0.001009s)
+[2017.10.14-07.54.19:759][386]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/MyLevel.MyLevel to /Game/2DSideScrollerBP/Maps/UEDPIE_0_MyLevel.MyLevel (0.005667s)
+[2017.10.14-07.54.19:788][386]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.14-07.54.19:800][386]LogInit: FAudioDevice initialized.
+[2017.10.14-07.54.19:833][386]LogLoad: Game class is 'MyGameMode_C'
+[2017.10.14-07.54.19:836][386]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_MyLevel.MyLevel up for play (max tick rate 0) at 2017.10.14-14.54.19
+[2017.10.14-07.54.19:838][386]LogWorld: Bringing up level for play took: 0.004387
+[2017.10.14-07.54.19:840][386]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_MyLevel 0.76
+[2017.10.14-07.54.19:840][386]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2017.10.14-07.54.24:571][942]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2017.10.14-07.54.24:618][942]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2017.10.14-07.54.25:653][ 20]Cmd: SELECT NONE
+[2017.10.14-07.54.28:301][300]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (spritesheet-32x-trans_TileMap)
+[2017.10.14-07.54.28:472][300]LogPaper2D: Triangulation of poly failed.
+[2017.10.14-07.54.28:472][300]LogPaper2D: Triangulation of poly failed.
+[2017.10.14-07.54.28:472][300]LogPaper2D: Triangulation of poly failed.
+[2017.10.14-07.54.28:472][300]LogPaper2D: Triangulation of poly failed.
+[2017.10.14-07.54.28:472][300]LogPaper2D: Triangulation of poly failed.
+[2017.10.14-07.54.28:472][300]LogPaper2D: Triangulation of poly failed.
+[2017.10.14-07.55.25:228][539]LogSavePackage: Save=105.41ms
+[2017.10.14-07.55.25:228][539]LogSavePackage: Moving '../../../../../../Users/Andre/Documents/Unreal Projects/TutorialGameDev2/Tutorial2_AndreGema 4.17/Saved/MyLevel_Auto5DDE9540B48615DA8484CA19F9A9B605D.tmp' to '../../../../../../Users/Andre/Documents/Unreal Projects/TutorialGameDev2/Tutorial2_AndreGema 4.17/Saved/Autosaves/Game/2DSideScrollerBP/Maps/MyLevel_Auto5.umap'
+[2017.10.14-07.55.25:230][539]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Andre/Documents/Unreal Projects/TutorialGameDev2/Tutorial2_AndreGema 4.17/Saved/Autosaves/Game/2DSideScrollerBP/Maps/MyLevel_Auto5.umap
+[2017.10.14-07.55.25:233][539]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/MyLevel' took 0.181
+[2017.10.14-07.55.25:233][539]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.181
+[2017.10.14-07.55.25:236][539]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScrollerBP/Blueprints/EnemyBP] ([1] browsable assets)...
+[2017.10.14-07.55.25:236][539]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Blueprints/EnemyBP]
+[2017.10.14-07.55.25:337][539]LogSavePackage: Save=85.85ms
+[2017.10.14-07.55.25:337][539]LogSavePackage: Moving '../../../../../../Users/Andre/Documents/Unreal Projects/TutorialGameDev2/Tutorial2_AndreGema 4.17/Saved/EnemyBP_Auto5C09A60D24CE9FF0EFD5EB487900BA69C.tmp' to '../../../../../../Users/Andre/Documents/Unreal Projects/TutorialGameDev2/Tutorial2_AndreGema 4.17/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/EnemyBP_Auto5.uasset'
+[2017.10.14-07.55.25:338][539]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Andre/Documents/Unreal Projects/TutorialGameDev2/Tutorial2_AndreGema 4.17/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/EnemyBP_Auto5.uasset
+[2017.10.14-07.55.25:339][539]LogFileHelpers: Auto-saving content packages took 0.104
+[2017.10.14-08.08.25:197][514]BlueprintLog: New page: Compile EnemyBP
+[2017.10.14-08.08.27:226][640]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.14-08.08.27:265][640]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2017.10.14-08.08.27:265][640]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.14-08.08.27:265][640]PIE: New page: PIE session: MyLevel (14 Oct 2017 22:08:27)
+[2017.10.14-08.08.27:266][640]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_MyLevel
+[2017.10.14-08.08.27:411][640]LogPlayLevel: PIE: StaticDuplicateObject took: (0.145621s)
+[2017.10.14-08.08.27:412][640]LogAIModule: Creating AISystem for world MyLevel
+[2017.10.14-08.08.27:412][640]LogPlayLevel: PIE: World Init took: (0.000879s)
+[2017.10.14-08.08.27:413][640]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/MyLevel.MyLevel to /Game/2DSideScrollerBP/Maps/UEDPIE_0_MyLevel.MyLevel (0.146814s)
+[2017.10.14-08.08.27:438][640]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.14-08.08.27:451][640]LogInit: FAudioDevice initialized.
+[2017.10.14-08.08.27:487][640]LogLoad: Game class is 'MyGameMode_C'
+[2017.10.14-08.08.27:490][640]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_MyLevel.MyLevel up for play (max tick rate 0) at 2017.10.14-15.08.27
+[2017.10.14-08.08.27:492][640]LogWorld: Bringing up level for play took: 0.004308
+[2017.10.14-08.08.27:494][640]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_MyLevel 0.415
+[2017.10.14-08.08.27:494][640]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2017.10.14-08.08.30:462][978]LogBlueprintUserMessages: [2DSideScrollerCharacter_C_0] 1
+[2017.10.14-08.08.31:763][130]LogBlueprintUserMessages: [EnemyBP_322] 113.175003
+[2017.10.14-08.08.31:876][143]LogBlueprintUserMessages: [2DSideScrollerCharacter_C_0] 2
+[2017.10.14-08.08.33:577][343]LogBlueprintUserMessages: [EnemyBP_322] 113.175003
+[2017.10.14-08.08.37:395][791]LogBlueprintUserMessages: [EnemyBP_322] 113.175003
+[2017.10.14-08.08.40:202][122]LogBlueprintUserMessages: [EnemyBP_322] 113.174995
+[2017.10.14-08.08.43:294][486]LogBlueprintUserMessages: [EnemyBP_322] 4.899681
+[2017.10.14-08.08.44:072][576]LogBlueprintUserMessages: [EnemyBP_322] 87.216446
+[2017.10.14-08.08.44:080][577]LogBlueprintUserMessages: [EnemyBP_322] 87.26355
+[2017.10.14-08.08.44:092][578]LogBlueprintUserMessages: [EnemyBP_322] 82.0168
+[2017.10.14-08.08.44:101][579]LogBlueprintUserMessages: [EnemyBP_322] 80.835037
+[2017.10.14-08.08.44:110][580]LogBlueprintUserMessages: [EnemyBP_322] 80.015015
+[2017.10.14-08.08.45:260][688]LogBlueprintUserMessages: [EnemyBP_322] 87.995483
+[2017.10.14-08.08.45:260][688]LogBlueprintUserMessages: [EnemyBP_322] 87.995483
+[2017.10.14-08.08.45:260][688]LogBlueprintUserMessages: [EnemyBP_322] 87.995483
+[2017.10.14-08.08.45:371][689]LogCharacterMovement: 2DSideScrollerCharacter_C_0 is stuck and failed to move! Velocity: X=214.02 Y=0.00 Z=0.00 Location: X=1873.00 Y=0.00 Z=-168.00 Normal: X=-0.87 Y=-0.00 Z=-0.49 PenetrationDepth:2.681 Actor:EnemyBP_322 Component:Enemy Sprite BoneName:None (0 other events since notify)
+[2017.10.14-08.08.45:372][689]LogBlueprintUserMessages: [EnemyBP_322] 87.15152
+[2017.10.14-08.08.45:378][690]LogBlueprintUserMessages: [EnemyBP_322] 87.882446
+[2017.10.14-08.08.45:378][690]LogBlueprintUserMessages: [EnemyBP_322] 87.882446
+[2017.10.14-08.08.45:378][690]LogBlueprintUserMessages: [EnemyBP_322] 87.882446
+[2017.10.14-08.08.45:386][691]LogBlueprintUserMessages: [EnemyBP_322] 87.882446
+[2017.10.14-08.08.45:929][733]LogBlueprintUserMessages: [EnemyBP_322] 85.989441
+[2017.10.14-08.08.45:929][733]LogBlueprintUserMessages: [EnemyBP_322] 85.989441
+[2017.10.14-08.08.45:939][734]LogBlueprintUserMessages: [EnemyBP_322] 86.116013
+[2017.10.14-08.08.45:939][734]LogBlueprintUserMessages: [EnemyBP_322] 86.116013
+[2017.10.14-08.08.45:950][735]LogBlueprintUserMessages: [EnemyBP_322] 86.116013
+[2017.10.14-08.08.45:950][735]LogBlueprintUserMessages: [EnemyBP_322] 86.116013
+[2017.10.14-08.08.45:959][736]LogBlueprintUserMessages: [EnemyBP_322] 86.116013
+[2017.10.14-08.08.45:959][736]LogBlueprintUserMessages: [EnemyBP_322] 86.116013
+[2017.10.14-08.08.45:968][737]LogBlueprintUserMessages: [EnemyBP_322] 86.116013
+[2017.10.14-08.08.45:968][737]LogBlueprintUserMessages: [EnemyBP_322] 86.116013
+[2017.10.14-08.08.45:976][738]LogBlueprintUserMessages: [EnemyBP_322] 86.116013
+[2017.10.14-08.08.45:976][738]LogBlueprintUserMessages: [EnemyBP_322] 86.116013
+[2017.10.14-08.08.45:985][739]LogBlueprintUserMessages: [EnemyBP_322] 86.116013
+[2017.10.14-08.08.45:985][739]LogBlueprintUserMessages: [EnemyBP_322] 86.116013
+[2017.10.14-08.08.45:993][740]LogBlueprintUserMessages: [EnemyBP_322] 86.116013
+[2017.10.14-08.08.45:993][740]LogBlueprintUserMessages: [EnemyBP_322] 86.116013
+[2017.10.14-08.08.46:310][777]LogBlueprintUserMessages: [EnemyBP_322] 25.769875
+[2017.10.14-08.08.46:318][778]LogBlueprintUserMessages: [EnemyBP_322] 25.769875
+[2017.10.14-08.08.46:327][779]LogBlueprintUserMessages: [EnemyBP_322] 25.769875
+[2017.10.14-08.08.46:335][780]LogBlueprintUserMessages: [EnemyBP_322] 55.769882
+[2017.10.14-08.08.46:344][781]LogBlueprintUserMessages: [EnemyBP_322] 55.769882
+[2017.10.14-08.08.47:122][844]LogBlueprintUserMessages: [EnemyBP_322] 85.849991
+[2017.10.14-08.08.49:317][102]LogBlueprintUserMessages: [EnemyBP_322] 113.175003
+[2017.10.14-08.08.51:200][323]LogBlueprintUserMessages: [EnemyBP_322] 113.175003
+[2017.10.14-08.08.52:416][467]LogBlueprintUserMessages: [EnemyBP_322] 113.175003
+[2017.10.14-08.08.55:540][837]LogBlueprintUserMessages: [EnemyBP_322] 26.740734
+[2017.10.14-08.08.55:623][847]LogBlueprintUserMessages: [EnemyBP_322] 76.552063
+[2017.10.14-08.08.55:623][847]LogBlueprintUserMessages: [EnemyBP_322] 76.552063
+[2017.10.14-08.08.56:791][982]LogBlueprintUserMessages: [EnemyBP_322] 113.175003
+[2017.10.14-08.08.59:909][348]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2017.10.14-08.08.59:954][348]LogPaper2D: Triangulation of poly failed.
+[2017.10.14-08.08.59:954][348]LogPaper2D: Triangulation of poly failed.
+[2017.10.14-08.08.59:954][348]LogPaper2D: Triangulation of poly failed.
+[2017.10.14-08.08.59:954][348]LogPaper2D: Triangulation of poly failed.
+[2017.10.14-08.08.59:954][348]LogPaper2D: Triangulation of poly failed.
+[2017.10.14-08.08.59:954][348]LogPaper2D: Triangulation of poly failed.
+[2017.10.14-08.08.59:971][348]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2017.10.14-08.11.33:165][118]BlueprintLog: New page: Compile EnemyBP
+[2017.10.14-08.11.55:423][501]BlueprintLog: New page: Compile EnemyBP
+[2017.10.14-08.11.57:433][631]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.14-08.11.57:481][631]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2017.10.14-08.11.57:481][631]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.14-08.11.57:481][631]PIE: New page: PIE session: MyLevel (14 Oct 2017 22:11:57)
+[2017.10.14-08.11.57:481][631]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_MyLevel
+[2017.10.14-08.11.57:484][631]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003050s)
+[2017.10.14-08.11.57:485][631]LogAIModule: Creating AISystem for world MyLevel
+[2017.10.14-08.11.57:485][631]LogPlayLevel: PIE: World Init took: (0.000956s)
+[2017.10.14-08.11.57:486][631]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/MyLevel.MyLevel to /Game/2DSideScrollerBP/Maps/UEDPIE_0_MyLevel.MyLevel (0.004297s)
+[2017.10.14-08.11.57:516][631]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.14-08.11.57:528][631]LogInit: FAudioDevice initialized.
+[2017.10.14-08.11.57:559][631]LogLoad: Game class is 'MyGameMode_C'
+[2017.10.14-08.11.57:562][631]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_MyLevel.MyLevel up for play (max tick rate 0) at 2017.10.14-15.11.57
+[2017.10.14-08.11.57:564][631]LogWorld: Bringing up level for play took: 0.004067
+[2017.10.14-08.11.57:566][631]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_MyLevel 0.486
+[2017.10.14-08.11.57:566][631]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2017.10.14-08.12.00:016][920]LogBlueprintUserMessages: [2DSideScrollerCharacter_C_0] 1
+[2017.10.14-08.12.01:381][ 80]LogBlueprintUserMessages: [2DSideScrollerCharacter_C_0] 2
+[2017.10.14-08.12.01:442][ 87]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.03:221][295]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.04:655][464]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.06:319][659]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.06:319][659]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.06:328][660]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.06:336][661]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.06:471][677]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.06:999][738]LogCharacterMovement: 2DSideScrollerCharacter_C_0 is stuck and failed to move! Velocity: X=17.07 Y=0.00 Z=0.00 Location: X=1873.05 Y=0.00 Z=-167.82 Normal: X=-0.87 Y=-0.00 Z=-0.49 PenetrationDepth:3.150 Actor:EnemyBP_322 Component:Enemy Sprite BoneName:None (0 other events since notify)
+[2017.10.14-08.12.06:999][738]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.06:999][738]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.06:999][738]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.07:009][739]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.07:009][739]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.07:009][739]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.07:019][740]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.07:019][740]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.07:328][775]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.07:328][775]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.07:338][776]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.07:355][778]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.07:363][779]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.07:374][780]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.07:382][781]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.07:392][782]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.07:402][783]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.07:410][784]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.07:420][785]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.07:428][786]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.07:437][787]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.08:960][965]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.12:035][326]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.14:353][596]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.15:087][681]LogBlueprintUserMessages: [2DSideScrollerCharacter_C_0] 3
+[2017.10.14-08.12.16:618][861]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.16:618][861]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.16:618][861]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.16:625][862]LogCharacterMovement: 2DSideScrollerCharacter_C_0 is stuck and failed to move! Velocity: X=600.00 Y=0.00 Z=0.00 Location: X=1899.11 Y=0.00 Z=-167.87 Normal: X=-0.87 Y=-0.00 Z=-0.49 PenetrationDepth:2.598 Actor:EnemyBP_322 Component:Enemy Sprite BoneName:None (1 other events since notify)
+[2017.10.14-08.12.16:625][862]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.16:625][862]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.16:635][863]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.16:652][865]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.16:662][866]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.16:671][867]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.16:679][868]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.16:688][869]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.16:696][870]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.16:706][871]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.16:714][872]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.16:723][873]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.16:732][874]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.16:740][875]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.16:750][876]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.16:758][877]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.16:767][878]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.16:775][879]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.16:784][880]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.16:792][881]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.16:801][882]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.16:859][889]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.16:868][890]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.18:378][ 65]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.18:386][ 66]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.19:034][142]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.19:042][143]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.19:051][144]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.19:051][144]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.19:236][166]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.19:236][166]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.19:237][166]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.19:245][167]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.19:245][167]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.23:924][718]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.27:359][124]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2017.10.14-08.12.27:410][124]LogPaper2D: Triangulation of poly failed.
+[2017.10.14-08.12.27:411][124]LogPaper2D: Triangulation of poly failed.
+[2017.10.14-08.12.27:411][124]LogPaper2D: Triangulation of poly failed.
+[2017.10.14-08.12.27:411][124]LogPaper2D: Triangulation of poly failed.
+[2017.10.14-08.12.27:411][124]LogPaper2D: Triangulation of poly failed.
+[2017.10.14-08.12.27:411][124]LogPaper2D: Triangulation of poly failed.
+[2017.10.14-08.12.27:429][124]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2017.10.14-08.12.46:173][936]BlueprintLog: New page: Compile EnemyBP
+[2017.10.14-08.12.48:316][ 68]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.14-08.12.48:357][ 68]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2017.10.14-08.12.48:357][ 68]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.14-08.12.48:357][ 68]PIE: New page: PIE session: MyLevel (14 Oct 2017 22:12:48)
+[2017.10.14-08.12.48:357][ 68]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_MyLevel
+[2017.10.14-08.12.48:360][ 68]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003015s)
+[2017.10.14-08.12.48:361][ 68]LogAIModule: Creating AISystem for world MyLevel
+[2017.10.14-08.12.48:361][ 68]LogPlayLevel: PIE: World Init took: (0.000837s)
+[2017.10.14-08.12.48:361][ 68]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/MyLevel.MyLevel to /Game/2DSideScrollerBP/Maps/UEDPIE_0_MyLevel.MyLevel (0.004178s)
+[2017.10.14-08.12.48:389][ 68]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.14-08.12.48:401][ 68]LogInit: FAudioDevice initialized.
+[2017.10.14-08.12.48:434][ 68]LogLoad: Game class is 'MyGameMode_C'
+[2017.10.14-08.12.48:438][ 68]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_MyLevel.MyLevel up for play (max tick rate 0) at 2017.10.14-15.12.48
+[2017.10.14-08.12.48:439][ 68]LogWorld: Bringing up level for play took: 0.003912
+[2017.10.14-08.12.48:441][ 68]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_MyLevel -0.638
+[2017.10.14-08.12.48:441][ 68]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2017.10.14-08.12.51:203][395]LogBlueprintUserMessages: [2DSideScrollerCharacter_C_0] 1
+[2017.10.14-08.12.52:902][596]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.53:606][679]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.53:632][682]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.53:650][684]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.53:667][686]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:162][744]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:162][744]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:162][744]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:169][745]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:170][745]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:170][745]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:178][746]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:179][746]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:179][746]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:187][747]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:187][747]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:187][747]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:195][748]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:195][748]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:195][748]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:203][749]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:204][749]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:204][749]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:212][750]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:212][750]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:212][750]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:220][751]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:220][751]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:220][751]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:228][752]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:229][752]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:229][752]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:237][753]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:237][753]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:237][753]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:246][754]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:246][754]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:246][754]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:254][755]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:254][755]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:254][755]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:263][756]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:263][756]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:263][756]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:271][757]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:271][757]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:271][757]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:280][758]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:280][758]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:280][758]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:288][759]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:288][759]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:288][759]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:296][760]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:296][760]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:296][760]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:305][761]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:305][761]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:305][761]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:313][762]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:313][762]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:313][762]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:321][763]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:321][763]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:321][763]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:330][764]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:330][764]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:330][764]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:338][765]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:338][765]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:338][765]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:347][766]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:347][766]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:347][766]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:355][767]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:355][767]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:355][767]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:363][768]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:524][787]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:684][806]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:694][807]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:701][808]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:711][809]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:718][810]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:728][811]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:734][812]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:744][813]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:751][814]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:761][815]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:768][816]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:778][817]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:785][818]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:802][820]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.12.54:812][821]LogBlueprintUserMessages: [EnemyBP_322] Stomp
+[2017.10.14-08.13.02:652][747]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2017.10.14-08.13.02:699][747]LogPaper2D: Triangulation of poly failed.
+[2017.10.14-08.13.02:699][747]LogPaper2D: Triangulation of poly failed.
+[2017.10.14-08.13.02:699][747]LogPaper2D: Triangulation of poly failed.
+[2017.10.14-08.13.02:699][747]LogPaper2D: Triangulation of poly failed.
+[2017.10.14-08.13.02:699][747]LogPaper2D: Triangulation of poly failed.
+[2017.10.14-08.13.02:699][747]LogPaper2D: Triangulation of poly failed.
+[2017.10.14-08.13.02:715][747]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2017.10.14-08.13.28:616][954]LogSavePackage: Save=105.09ms
+[2017.10.14-08.13.28:616][954]LogSavePackage: Moving '../../../../../../Users/Andre/Documents/Unreal Projects/TutorialGameDev2/Tutorial2_AndreGema 4.17/Saved/MyLevel_Auto67F2D5CDA425896DBDEDF268C7EF2342D.tmp' to '../../../../../../Users/Andre/Documents/Unreal Projects/TutorialGameDev2/Tutorial2_AndreGema 4.17/Saved/Autosaves/Game/2DSideScrollerBP/Maps/MyLevel_Auto6.umap'
+[2017.10.14-08.13.28:664][954]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Andre/Documents/Unreal Projects/TutorialGameDev2/Tutorial2_AndreGema 4.17/Saved/Autosaves/Game/2DSideScrollerBP/Maps/MyLevel_Auto6.umap
+[2017.10.14-08.13.28:669][954]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/MyLevel' took 0.313
+[2017.10.14-08.13.28:669][954]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.313
+[2017.10.14-08.13.28:672][954]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScrollerBP/Blueprints/EnemyBP] ([1] browsable assets)...
+[2017.10.14-08.13.28:672][954]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Blueprints/EnemyBP]
+[2017.10.14-08.13.28:824][954]LogSavePackage: Save=86.35ms
+[2017.10.14-08.13.28:824][954]LogSavePackage: Moving '../../../../../../Users/Andre/Documents/Unreal Projects/TutorialGameDev2/Tutorial2_AndreGema 4.17/Saved/EnemyBP_Auto6C2DDCB8D4DDE2206C46B85A0F4D21F5A.tmp' to '../../../../../../Users/Andre/Documents/Unreal Projects/TutorialGameDev2/Tutorial2_AndreGema 4.17/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/EnemyBP_Auto6.uasset'
+[2017.10.14-08.13.28:826][954]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Andre/Documents/Unreal Projects/TutorialGameDev2/Tutorial2_AndreGema 4.17/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/EnemyBP_Auto6.uasset
+[2017.10.14-08.13.28:826][954]LogFileHelpers: Auto-saving content packages took 0.155
+[2017.10.14-08.19.01:993][264]LogEditorTransaction: Undo Add Node
+[2017.10.14-08.19.02:158][269]LogEditorTransaction: Undo Move Nodes
+[2017.10.14-08.19.02:426][280]LogEditorTransaction: Undo Add Node
+[2017.10.14-08.21.08:106][ 68]BlueprintLog: New page: Compile EnemyBP
+[2017.10.14-08.21.11:085][262]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.14-08.21.11:128][262]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2017.10.14-08.21.11:128][262]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.14-08.21.11:128][262]PIE: New page: PIE session: MyLevel (14 Oct 2017 22:21:11)
+[2017.10.14-08.21.11:128][262]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_MyLevel
+[2017.10.14-08.21.11:144][262]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015353s)
+[2017.10.14-08.21.11:145][262]LogAIModule: Creating AISystem for world MyLevel
+[2017.10.14-08.21.11:145][262]LogPlayLevel: PIE: World Init took: (0.000933s)
+[2017.10.14-08.21.11:145][262]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/MyLevel.MyLevel to /Game/2DSideScrollerBP/Maps/UEDPIE_0_MyLevel.MyLevel (0.016597s)
+[2017.10.14-08.21.11:173][262]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.14-08.21.11:186][262]LogInit: FAudioDevice initialized.
+[2017.10.14-08.21.11:218][262]LogLoad: Game class is 'MyGameMode_C'
+[2017.10.14-08.21.11:222][262]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_MyLevel.MyLevel up for play (max tick rate 0) at 2017.10.14-15.21.11
+[2017.10.14-08.21.11:224][262]LogWorld: Bringing up level for play took: 0.003980
+[2017.10.14-08.21.11:225][262]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_MyLevel 0.146
+[2017.10.14-08.21.11:226][262]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2017.10.14-08.21.14:200][612]LogBlueprintUserMessages: [2DSideScrollerCharacter_C_0] 1
+[2017.10.14-08.21.16:316][846]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.21.18:982][161]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.21.19:367][207]LogBlueprintUserMessages: [2DSideScrollerCharacter_C_0] 2
+[2017.10.14-08.21.20:434][333]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.21.23:172][656]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.21.25:168][894]LogBlueprintUserMessages: [EnemyBP_322] -250.844574
+[2017.10.14-08.21.25:398][921]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.21.25:398][921]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.21.25:405][922]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.21.25:414][923]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.21.25:422][924]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.21.25:555][940]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.21.25:564][941]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.21.26:647][ 69]LogBlueprintUserMessages: [EnemyBP_322] 836.660156
+[2017.10.14-08.21.26:655][ 70]LogBlueprintUserMessages: [EnemyBP_322] 820.326172
+[2017.10.14-08.21.26:664][ 71]LogBlueprintUserMessages: [EnemyBP_322] 803.992188
+[2017.10.14-08.21.26:664][ 71]LogBlueprintUserMessages: [EnemyBP_322] 803.992188
+[2017.10.14-08.21.26:671][ 72]LogBlueprintUserMessages: [EnemyBP_322] 787.658203
+[2017.10.14-08.21.26:680][ 73]LogBlueprintUserMessages: [EnemyBP_322] 771.324219
+[2017.10.14-08.21.26:688][ 74]LogBlueprintUserMessages: [EnemyBP_322] 754.990234
+[2017.10.14-08.21.26:697][ 75]LogBlueprintUserMessages: [EnemyBP_322] 738.65625
+[2017.10.14-08.21.26:704][ 76]LogBlueprintUserMessages: [EnemyBP_322] 722.322266
+[2017.10.14-08.21.26:714][ 77]LogBlueprintUserMessages: [EnemyBP_322] 705.988342
+[2017.10.14-08.21.26:722][ 78]LogBlueprintUserMessages: [EnemyBP_322] 689.654297
+[2017.10.14-08.21.26:731][ 79]LogBlueprintUserMessages: [EnemyBP_322] 673.320374
+[2017.10.14-08.21.26:738][ 80]LogBlueprintUserMessages: [EnemyBP_322] 656.98645
+[2017.10.14-08.21.26:747][ 81]LogBlueprintUserMessages: [EnemyBP_322] 640.652466
+[2017.10.14-08.21.27:332][150]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.21.28:899][334]LogBlueprintUserMessages: [EnemyBP_322] -605.549316
+[2017.10.14-08.21.28:916][336]LogBlueprintUserMessages: [EnemyBP_322] -638.217285
+[2017.10.14-08.21.28:924][337]LogBlueprintUserMessages: [EnemyBP_322] -654.55127
+[2017.10.14-08.21.28:933][338]LogBlueprintUserMessages: [EnemyBP_322] -670.885254
+[2017.10.14-08.21.28:941][339]LogBlueprintUserMessages: [EnemyBP_322] -687.219238
+[2017.10.14-08.21.28:949][340]LogBlueprintUserMessages: [EnemyBP_322] -703.553223
+[2017.10.14-08.21.28:958][341]LogBlueprintUserMessages: [EnemyBP_322] -719.887207
+[2017.10.14-08.21.28:966][342]LogBlueprintUserMessages: [EnemyBP_322] -736.221191
+[2017.10.14-08.21.28:974][343]LogBlueprintUserMessages: [EnemyBP_322] -752.555176
+[2017.10.14-08.21.28:983][344]LogBlueprintUserMessages: [EnemyBP_322] -768.88916
+[2017.10.14-08.21.28:991][345]LogBlueprintUserMessages: [EnemyBP_322] -785.223145
+[2017.10.14-08.21.28:999][346]LogBlueprintUserMessages: [EnemyBP_322] -801.557129
+[2017.10.14-08.21.29:008][347]LogBlueprintUserMessages: [EnemyBP_322] -817.891113
+[2017.10.14-08.21.29:016][348]LogBlueprintUserMessages: [EnemyBP_322] -834.225098
+[2017.10.14-08.21.29:024][349]LogBlueprintUserMessages: [EnemyBP_322] -850.559082
+[2017.10.14-08.21.29:049][352]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.21.29:049][352]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.21.29:050][352]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.21.29:058][353]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.21.29:066][354]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.21.29:075][355]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.21.29:085][356]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.21.29:093][357]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.21.29:102][358]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.21.29:110][359]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.21.29:119][360]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.21.29:128][361]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.21.29:136][362]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.21.29:145][363]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.21.29:153][364]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.21.29:162][365]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.21.29:170][366]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.21.29:179][367]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.21.30:933][575]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.21.31:802][678]LogBlueprintUserMessages: [2DSideScrollerCharacter_C_0] 3
+[2017.10.14-08.21.32:323][740]LogNet: Browse: /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap
+[2017.10.14-08.21.32:323][740]LogLoad: LoadMap: /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap
+[2017.10.14-08.21.32:354][740]Cmd: MEM
+[2017.10.14-08.21.32:379][740]LogMemory: Platform Memory Stats for Windows
+[2017.10.14-08.21.32:379][740]LogMemory: Process Physical Memory: 1016.26 MB used, 1723.82 MB peak
+[2017.10.14-08.21.32:379][740]LogMemory: Process Virtual Memory: 3026.46 MB used, 3031.09 MB peak
+[2017.10.14-08.21.32:379][740]LogMemory: Physical Memory: 6704.53 MB used,  1399.74 MB free, 8104.27 MB total
+[2017.10.14-08.21.32:379][740]LogMemory: Virtual Memory: 3833.55 MB used,  1399.74 MB free, 134217728.00 MB total
+[2017.10.14-08.21.32:379][740]LogMemory: 
+[2017.10.14-08.21.32:379][740]Allocator Stats for TBB: (not implemented)
+[2017.10.14-08.21.33:074][740]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2017.10.14-08.21.33:075][740]LogLoad: Game class is 'MyGameMode_C'
+[2017.10.14-08.21.33:078][740]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2017.10.14-15.21.33
+[2017.10.14-08.21.33:079][740]LogWorld: Bringing up level for play took: 0.003207
+[2017.10.14-08.21.33:080][740]LogLoad: Took 0.756519 seconds to LoadMap(/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap)
+[2017.10.14-08.21.34:147][846]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2017.10.14-08.21.34:192][846]LogPaper2D: Triangulation of poly failed.
+[2017.10.14-08.21.34:192][846]LogPaper2D: Triangulation of poly failed.
+[2017.10.14-08.21.34:192][846]LogPaper2D: Triangulation of poly failed.
+[2017.10.14-08.21.34:192][846]LogPaper2D: Triangulation of poly failed.
+[2017.10.14-08.21.34:192][846]LogPaper2D: Triangulation of poly failed.
+[2017.10.14-08.21.34:192][846]LogPaper2D: Triangulation of poly failed.
+[2017.10.14-08.21.34:208][846]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2017.10.14-08.21.42:271][684]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (spritesheet-32x-trans_TileMap)
+[2017.10.14-08.21.44:925][958]LogEditorViewport: Clicking on Actor (LMB): EnemyBP_C (EnemyBP)
+[2017.10.14-08.21.47:101][169]LogEditorViewport: Clicking Background
+[2017.10.14-08.21.49:043][393]LogEditorViewport: Clicking on Actor (LMB): EnemyBP_C (EnemyBP)
+[2017.10.14-08.21.54:787][976]LogEditorViewport: Clicking on Actor (LMB): MovingPlatrormBP_C (MovingPlatrormBP)
+[2017.10.14-08.21.59:765][476]LogEditorViewport: Clicking on Actor (LMB): DoorBP_C (DoorBP)
+[2017.10.14-08.22.03:354][790]LogSavePackage: Save=107.14ms
+[2017.10.14-08.22.03:354][790]LogSavePackage: Moving '../../../../../../Users/Andre/Documents/Unreal Projects/TutorialGameDev2/Tutorial2_AndreGema 4.17/Saved/MyLevel817107D346C755CF3FD0DFB3CC90AE6A.tmp' to '../../../../../../Users/Andre/Documents/Unreal Projects/TutorialGameDev2/Tutorial2_AndreGema 4.17/Content/2DSideScrollerBP/Maps/MyLevel.umap'
+[2017.10.14-08.22.03:367][790]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Andre/Documents/Unreal Projects/TutorialGameDev2/Tutorial2_AndreGema 4.17/Content/2DSideScrollerBP/Maps/MyLevel.umap
+[2017.10.14-08.22.03:825][823]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.14-08.22.03:861][823]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2017.10.14-08.22.03:861][823]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.14-08.22.03:862][823]PIE: New page: PIE session: MyLevel (14 Oct 2017 22:22:03)
+[2017.10.14-08.22.03:862][823]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_MyLevel
+[2017.10.14-08.22.03:865][823]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002890s)
+[2017.10.14-08.22.03:865][823]LogAIModule: Creating AISystem for world MyLevel
+[2017.10.14-08.22.03:866][823]LogPlayLevel: PIE: World Init took: (0.000840s)
+[2017.10.14-08.22.03:866][823]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/MyLevel.MyLevel to /Game/2DSideScrollerBP/Maps/UEDPIE_0_MyLevel.MyLevel (0.004046s)
+[2017.10.14-08.22.03:895][823]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.14-08.22.03:907][823]LogInit: FAudioDevice initialized.
+[2017.10.14-08.22.03:944][823]LogLoad: Game class is 'MyGameMode_C'
+[2017.10.14-08.22.03:947][823]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_MyLevel.MyLevel up for play (max tick rate 0) at 2017.10.14-15.22.03
+[2017.10.14-08.22.03:948][823]LogWorld: Bringing up level for play took: 0.003828
+[2017.10.14-08.22.03:950][823]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_MyLevel 0.871
+[2017.10.14-08.22.03:951][823]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2017.10.14-08.22.05:116][960]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.22.05:116][960]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.22.05:125][961]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.22.05:125][961]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.22.05:133][962]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.22.05:133][962]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.22.08:761][393]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.22.08:761][393]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.22.08:770][394]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.22.08:770][394]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.22.08:779][395]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.22.08:779][395]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.22.08:787][396]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.22.08:787][396]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.22.08:796][397]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.22.08:796][397]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.22.08:804][398]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.22.08:804][398]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.22.09:958][535]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.22.09:958][535]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.22.09:966][536]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.22.09:967][536]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.22.11:042][664]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.22.11:042][664]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.22.11:050][665]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.22.11:050][665]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.22.11:061][666]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.22.11:061][666]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.22.11:074][667]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.22.11:074][667]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.22.13:703][978]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.22.14:824][108]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2017.10.14-08.22.14:869][108]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2017.10.14-08.22.51:661][300]LogSavePackage: Save=96.28ms
+[2017.10.14-08.22.51:661][300]LogSavePackage: Moving '../../../../../../Users/Andre/Documents/Unreal Projects/TutorialGameDev2/Tutorial2_AndreGema 4.17/Saved/EnemyBP917BB6FA49536E03366E0F8E74447220.tmp' to '../../../../../../Users/Andre/Documents/Unreal Projects/TutorialGameDev2/Tutorial2_AndreGema 4.17/Content/2DSideScrollerBP/Blueprints/EnemyBP.uasset'
+[2017.10.14-08.22.51:672][300]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Andre/Documents/Unreal Projects/TutorialGameDev2/Tutorial2_AndreGema 4.17/Content/2DSideScrollerBP/Blueprints/EnemyBP.uasset
+[2017.10.14-08.22.54:558][559]LogEditorViewport: Clicking on Actor (LMB): EnemyBP_C (EnemyBP)
+[2017.10.14-08.22.59:308][ 41]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.14-08.22.59:337][ 41]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2017.10.14-08.22.59:337][ 41]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.14-08.22.59:337][ 41]PIE: New page: PIE session: MyLevel (14 Oct 2017 22:22:59)
+[2017.10.14-08.22.59:337][ 41]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_MyLevel
+[2017.10.14-08.22.59:340][ 41]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003075s)
+[2017.10.14-08.22.59:341][ 41]LogAIModule: Creating AISystem for world MyLevel
+[2017.10.14-08.22.59:341][ 41]LogPlayLevel: PIE: World Init took: (0.000785s)
+[2017.10.14-08.22.59:341][ 41]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/MyLevel.MyLevel to /Game/2DSideScrollerBP/Maps/UEDPIE_0_MyLevel.MyLevel (0.004166s)
+[2017.10.14-08.22.59:375][ 41]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.14-08.22.59:387][ 41]LogInit: FAudioDevice initialized.
+[2017.10.14-08.22.59:419][ 41]LogLoad: Game class is 'MyGameMode_C'
+[2017.10.14-08.22.59:422][ 41]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_MyLevel.MyLevel up for play (max tick rate 0) at 2017.10.14-15.22.59
+[2017.10.14-08.22.59:424][ 41]LogWorld: Bringing up level for play took: 0.003848
+[2017.10.14-08.22.59:425][ 41]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_MyLevel 0.346
+[2017.10.14-08.22.59:426][ 41]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2017.10.14-08.23.00:533][169]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.23.00:541][170]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.23.00:549][171]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.23.00:557][172]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.23.00:566][173]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.23.00:574][174]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.23.00:585][175]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.23.00:585][175]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.23.00:593][176]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.23.00:603][177]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.23.00:611][178]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.23.00:620][179]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.23.01:210][248]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.23.01:219][249]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.23.01:227][250]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.23.01:236][251]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.23.01:245][252]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.23.01:253][253]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.23.01:262][254]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.23.01:271][255]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.23.01:279][256]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.23.01:288][257]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.23.01:296][258]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.23.01:305][259]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.23.01:314][260]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.23.01:322][261]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.23.01:332][262]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.23.01:339][263]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.23.01:769][314]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.23.01:769][314]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.23.01:777][315]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.23.01:786][316]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.23.01:794][317]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.23.01:805][318]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.23.01:814][319]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.23.01:822][320]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.23.01:832][321]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.23.01:839][322]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.23.01:849][323]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.23.01:856][324]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.23.01:866][325]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.23.01:873][326]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.23.01:882][327]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.23.01:890][328]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.23.01:899][329]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.23.01:906][330]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.23.01:916][331]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.23.01:923][332]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.23.01:932][333]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.23.01:940][334]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.23.01:949][335]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.23.02:226][368]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.23.02:227][368]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.23.02:236][369]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.23.02:253][371]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.23.02:261][372]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.23.02:270][373]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.23.02:278][374]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.23.02:288][375]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.23.02:296][376]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.23.02:305][377]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.23.03:508][518]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.23.06:937][922]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.23.10:067][293]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-08.23.11:305][435]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2017.10.14-08.23.11:357][435]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2017.10.14-08.23.39:549][399]LogEditorViewport: Clicking on Actor (LMB): EnemyBP_C (EnemyBP)
+[2017.10.14-08.32.26:811][323]LogSavePackage: Save=83.59ms
+[2017.10.14-08.32.26:811][323]LogSavePackage: Moving '../../../../../../Users/Andre/Documents/Unreal Projects/TutorialGameDev2/Tutorial2_AndreGema 4.17/Saved/MyLevel_Auto776D946D544D26A4014624FBFEFF47C1C.tmp' to '../../../../../../Users/Andre/Documents/Unreal Projects/TutorialGameDev2/Tutorial2_AndreGema 4.17/Saved/Autosaves/Game/2DSideScrollerBP/Maps/MyLevel_Auto7.umap'
+[2017.10.14-08.32.26:813][323]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Andre/Documents/Unreal Projects/TutorialGameDev2/Tutorial2_AndreGema 4.17/Saved/Autosaves/Game/2DSideScrollerBP/Maps/MyLevel_Auto7.umap
+[2017.10.14-08.32.26:815][323]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/MyLevel' took 0.149
+[2017.10.14-08.32.26:815][323]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.149
+[2017.10.14-10.27.01:100][942]BlueprintLog: New page: Compile EnemyBP
+[2017.10.14-10.27.02:198][970]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.14-10.27.02:240][970]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2017.10.14-10.27.02:240][970]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.14-10.27.02:241][970]PIE: New page: PIE session: MyLevel (15 Oct 2017 00:27:02)
+[2017.10.14-10.27.02:241][970]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_MyLevel
+[2017.10.14-10.27.02:274][970]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032438s)
+[2017.10.14-10.27.02:276][970]LogAIModule: Creating AISystem for world MyLevel
+[2017.10.14-10.27.02:277][970]LogPlayLevel: PIE: World Init took: (0.003006s)
+[2017.10.14-10.27.02:277][970]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/MyLevel.MyLevel to /Game/2DSideScrollerBP/Maps/UEDPIE_0_MyLevel.MyLevel (0.035775s)
+[2017.10.14-10.27.02:309][970]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.14-10.27.02:323][970]LogInit: FAudioDevice initialized.
+[2017.10.14-10.27.02:362][970]LogLoad: Game class is 'MyGameMode_C'
+[2017.10.14-10.27.02:368][970]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_MyLevel.MyLevel up for play (max tick rate 0) at 2017.10.14-17.27.02
+[2017.10.14-10.27.02:370][970]LogWorld: Bringing up level for play took: 0.006424
+[2017.10.14-10.27.02:372][970]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_MyLevel -0.707
+[2017.10.14-10.27.02:372][970]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2017.10.14-10.27.04:051][ 68]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2017.10.14-10.27.04:115][ 68]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2017.10.14-10.27.05:771][179]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.14-10.27.05:804][179]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2017.10.14-10.27.05:804][179]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.14-10.27.05:804][179]PIE: New page: PIE session: MyLevel (15 Oct 2017 00:27:05)
+[2017.10.14-10.27.05:804][179]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_MyLevel
+[2017.10.14-10.27.05:809][179]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004814s)
+[2017.10.14-10.27.05:810][179]LogAIModule: Creating AISystem for world MyLevel
+[2017.10.14-10.27.05:810][179]LogPlayLevel: PIE: World Init took: (0.001226s)
+[2017.10.14-10.27.05:811][179]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/MyLevel.MyLevel to /Game/2DSideScrollerBP/Maps/UEDPIE_0_MyLevel.MyLevel (0.006585s)
+[2017.10.14-10.27.05:848][179]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.14-10.27.05:862][179]LogInit: FAudioDevice initialized.
+[2017.10.14-10.27.05:901][179]LogLoad: Game class is 'MyGameMode_C'
+[2017.10.14-10.27.05:904][179]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_MyLevel.MyLevel up for play (max tick rate 0) at 2017.10.14-17.27.05
+[2017.10.14-10.27.05:906][179]LogWorld: Bringing up level for play took: 0.004004
+[2017.10.14-10.27.05:907][179]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_MyLevel 0.828
+[2017.10.14-10.27.05:908][179]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2017.10.14-10.27.08:431][469]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.11:071][780]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.12:409][938]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.12:409][938]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.12:417][939]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.12:417][939]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.12:443][942]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.12:444][942]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.12:452][943]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.12:460][944]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.12:468][945]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.12:478][946]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.12:486][947]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.12:495][948]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.12:504][949]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.12:513][950]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.12:521][951]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.12:530][952]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.12:540][953]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.12:547][954]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.12:557][955]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.12:565][956]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.12:574][957]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.12:582][958]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.12:591][959]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.13:026][  9]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.13:026][  9]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.13:038][ 10]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.13:038][ 10]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.13:049][ 11]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.13:050][ 11]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.13:059][ 12]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.13:068][ 13]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.13:079][ 14]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.13:079][ 14]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.13:092][ 15]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.13:092][ 15]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.13:103][ 16]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.13:115][ 17]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.13:115][ 17]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.13:125][ 18]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.13:134][ 19]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.13:146][ 20]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.13:146][ 20]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.13:154][ 21]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.13:165][ 22]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.13:165][ 22]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.13:175][ 23]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.13:184][ 24]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.13:194][ 25]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.13:202][ 26]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.13:213][ 27]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.13:213][ 27]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.13:221][ 28]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.13:231][ 29]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.13:241][ 30]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.13:248][ 31]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.13:257][ 32]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.13:265][ 33]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.13:274][ 34]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.13:282][ 35]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.13:291][ 36]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.13:298][ 37]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.13:307][ 38]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.13:315][ 39]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.13:326][ 40]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.13:326][ 40]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.13:334][ 41]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.13:343][ 42]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.13:351][ 43]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.13:360][ 44]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.13:368][ 45]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.13:377][ 46]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.13:385][ 47]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.13:396][ 48]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.13:397][ 48]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.13:408][ 49]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.13:417][ 50]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.13:417][ 50]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.13:427][ 51]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.13:435][ 52]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.13:446][ 53]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.13:447][ 53]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.13:455][ 54]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.13:464][ 55]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.13:473][ 56]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.13:481][ 57]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.13:491][ 58]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.13:498][ 59]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.13:508][ 60]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.13:515][ 61]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.13:524][ 62]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.13:532][ 63]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.13:541][ 64]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.13:549][ 65]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.13:558][ 66]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.15:015][237]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.15:024][238]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.15:031][239]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.15:041][240]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.15:048][241]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.15:057][242]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.15:065][243]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.15:074][244]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.15:082][245]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.15:082][245]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.15:091][246]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.15:100][247]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.15:108][248]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.15:117][249]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.15:125][250]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.15:133][251]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.15:143][252]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.15:151][253]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.15:159][254]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.15:168][255]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.15:177][256]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.15:185][257]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.15:194][258]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.15:202][259]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.15:213][260]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.15:221][261]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.15:229][262]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.15:238][263]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.15:246][264]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.15:256][265]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.15:264][266]LogBlueprintUserMessages: [EnemyBP_322] 981.946411
+[2017.10.14-10.27.15:274][267]LogBlueprintUserMessages: [EnemyBP_322] 965.612427
+[2017.10.14-10.27.15:281][268]LogBlueprintUserMessages: [EnemyBP_322] 947.927368
+[2017.10.14-10.27.15:291][269]LogBlueprintUserMessages: [EnemyBP_322] 931.593384
+[2017.10.14-10.27.15:298][270]LogBlueprintUserMessages: [EnemyBP_322] 915.259399
+[2017.10.14-10.27.15:308][271]LogBlueprintUserMessages: [EnemyBP_322] 898.897217
+[2017.10.14-10.27.15:315][272]LogBlueprintUserMessages: [EnemyBP_322] 882.023254
+[2017.10.14-10.27.15:324][273]LogBlueprintUserMessages: [EnemyBP_322] 864.475037
+[2017.10.14-10.27.16:266][383]LogBlueprintUserMessages: [EnemyBP_322] -981.624146
+[2017.10.14-10.27.16:275][384]LogBlueprintUserMessages: [EnemyBP_322] -999.858032
+[2017.10.14-10.27.16:284][385]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.16:293][386]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.16:302][387]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.16:311][388]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.16:319][389]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.16:328][390]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.16:337][391]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.16:346][392]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.16:346][392]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.16:354][393]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.16:363][394]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.16:374][395]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.16:374][395]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.16:380][396]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.16:390][397]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.16:397][398]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.16:407][399]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.16:415][400]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.16:617][424]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.16:626][425]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.16:634][426]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.16:644][427]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.16:652][428]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.16:661][429]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.16:669][430]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.16:669][430]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.16:678][431]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.16:687][432]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.16:696][433]LogBlueprintUserMessages: [EnemyBP_322] 982.681091
+[2017.10.14-10.27.16:704][434]LogBlueprintUserMessages: [EnemyBP_322] 965.869934
+[2017.10.14-10.27.16:713][435]LogBlueprintUserMessages: [EnemyBP_322] 947.731873
+[2017.10.14-10.27.16:723][436]LogBlueprintUserMessages: [EnemyBP_322] 931.397888
+[2017.10.14-10.27.16:730][437]LogBlueprintUserMessages: [EnemyBP_322] 915.063904
+[2017.10.14-10.27.16:740][438]LogBlueprintUserMessages: [EnemyBP_322] 898.729919
+[2017.10.14-10.27.16:747][439]LogBlueprintUserMessages: [EnemyBP_322] 882.395935
+[2017.10.14-10.27.18:345][625]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.18:345][625]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.18:353][626]LogBlueprintUserMessages: [EnemyBP_322] 0.0
+[2017.10.14-10.27.19:379][744]LogBlueprintUserMessages: [2DSideScrollerCharacter_C_0] 1
+[2017.10.14-10.27.20:131][833]LogBlueprintUserMessages: [2DSideScrollerCharacter_C_0] 2
+[2017.10.14-10.27.21:318][974]LogBlueprintUserMessages: [2DSideScrollerCharacter_C_0] 3
+[2017.10.14-10.27.22:057][ 59]LogNet: Browse: /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap
+[2017.10.14-10.27.22:057][ 59]LogLoad: LoadMap: /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap
+[2017.10.14-10.27.22:087][ 59]Cmd: MEM
+[2017.10.14-10.27.22:111][ 59]LogMemory: Platform Memory Stats for Windows
+[2017.10.14-10.27.22:111][ 59]LogMemory: Process Physical Memory: 641.97 MB used, 1723.82 MB peak
+[2017.10.14-10.27.22:111][ 59]LogMemory: Process Virtual Memory: 3031.05 MB used, 3116.21 MB peak
+[2017.10.14-10.27.22:111][ 59]LogMemory: Physical Memory: 6004.77 MB used,  2099.50 MB free, 8104.27 MB total
+[2017.10.14-10.27.22:111][ 59]LogMemory: Virtual Memory: 3827.93 MB used,  2099.50 MB free, 134217728.00 MB total
+[2017.10.14-10.27.22:111][ 59]LogMemory: 
+[2017.10.14-10.27.22:111][ 59]Allocator Stats for TBB: (not implemented)
+[2017.10.14-10.27.22:808][ 59]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2017.10.14-10.27.22:808][ 59]LogLoad: Game class is 'MyGameMode_C'
+[2017.10.14-10.27.22:813][ 59]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2017.10.14-17.27.22
+[2017.10.14-10.27.22:813][ 59]LogWorld: Bringing up level for play took: 0.003893
+[2017.10.14-10.27.22:815][ 59]LogLoad: Took 0.757590 seconds to LoadMap(/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap)
+[2017.10.14-10.27.23:447][133]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2017.10.14-10.27.23:496][133]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2017.10.14-10.27.59:520][467]LogSavePackage: Save=116.96ms
+[2017.10.14-10.27.59:520][467]LogSavePackage: Moving '../../../../../../Users/Andre/Documents/Unreal Projects/TutorialGameDev2/Tutorial2_AndreGema 4.17/Saved/MyLevel_Auto87F5E44DA4B6A27830AB45EB570B9B57F.tmp' to '../../../../../../Users/Andre/Documents/Unreal Projects/TutorialGameDev2/Tutorial2_AndreGema 4.17/Saved/Autosaves/Game/2DSideScrollerBP/Maps/MyLevel_Auto8.umap'
+[2017.10.14-10.27.59:526][467]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Andre/Documents/Unreal Projects/TutorialGameDev2/Tutorial2_AndreGema 4.17/Saved/Autosaves/Game/2DSideScrollerBP/Maps/MyLevel_Auto8.umap
+[2017.10.14-10.27.59:529][467]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/MyLevel' took 0.302
+[2017.10.14-10.27.59:529][467]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.302
+[2017.10.14-10.27.59:532][467]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScrollerBP/Blueprints/EnemyBP] ([1] browsable assets)...
+[2017.10.14-10.27.59:532][467]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Blueprints/EnemyBP]
+[2017.10.14-10.27.59:692][467]LogSavePackage: Save=142.88ms
+[2017.10.14-10.27.59:692][467]LogSavePackage: Moving '../../../../../../Users/Andre/Documents/Unreal Projects/TutorialGameDev2/Tutorial2_AndreGema 4.17/Saved/EnemyBP_Auto8319B474A4A6773A049E5059DB861D5F0.tmp' to '../../../../../../Users/Andre/Documents/Unreal Projects/TutorialGameDev2/Tutorial2_AndreGema 4.17/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/EnemyBP_Auto8.uasset'
+[2017.10.14-10.27.59:696][467]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Andre/Documents/Unreal Projects/TutorialGameDev2/Tutorial2_AndreGema 4.17/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/EnemyBP_Auto8.uasset
+[2017.10.14-10.27.59:697][467]LogFileHelpers: Auto-saving content packages took 0.165
+[2017.10.14-10.33.00:037][ 79]LogEditorTransaction: Undo Modify Component(s)
+[2017.10.14-10.33.11:502][721]LogEditorTransaction: Undo Modify Component(s)
+[2017.10.14-10.34.57:021][536]LogEditorTransaction: Undo Set actor scale
+[2017.10.14-10.34.57:213][545]LogEditorTransaction: Undo Set actor scale
+[2017.10.14-10.36.42:374][956]LogBlueprint: Warning: [Compiler ] Pasted node  CustomEvent   conflicted with  On Component Hit (Enemy Sprite)  and was replaced as a Custom Event!
+[2017.10.14-10.36.49:021][318]LogEditorTransaction: Undo Delete current selection
+[2017.10.14-10.36.49:224][324]LogEditorTransaction: Undo Delete current selection
+[2017.10.14-10.37.18:603][972]BlueprintLog: New page: Compile EnemyBP
+[2017.10.14-10.37.20:051][ 32]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.14-10.37.20:104][ 32]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2017.10.14-10.37.20:104][ 32]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.14-10.37.20:104][ 32]PIE: New page: PIE session: MyLevel (15 Oct 2017 00:37:20)
+[2017.10.14-10.37.20:104][ 32]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_MyLevel
+[2017.10.14-10.37.20:215][ 32]LogPlayLevel: PIE: StaticDuplicateObject took: (0.111499s)
+[2017.10.14-10.37.20:217][ 32]LogAIModule: Creating AISystem for world MyLevel
+[2017.10.14-10.37.20:218][ 32]LogPlayLevel: PIE: World Init took: (0.002562s)
+[2017.10.14-10.37.20:219][ 32]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/MyLevel.MyLevel to /Game/2DSideScrollerBP/Maps/UEDPIE_0_MyLevel.MyLevel (0.115084s)
+[2017.10.14-10.37.20:269][ 32]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.14-10.37.20:283][ 32]LogInit: FAudioDevice initialized.
+[2017.10.14-10.37.20:325][ 32]LogLoad: Game class is 'MyGameMode_C'
+[2017.10.14-10.37.20:329][ 32]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_MyLevel.MyLevel up for play (max tick rate 0) at 2017.10.14-17.37.20
+[2017.10.14-10.37.20:368][ 32]LogWorld: Bringing up level for play took: 0.042464
+[2017.10.14-10.37.20:373][ 32]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_MyLevel 1.294
+[2017.10.14-10.37.20:374][ 32]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2017.10.14-10.37.21:417][ 86]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2017.10.14-10.37.21:479][ 86]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2017.10.14-10.37.25:026][251]LogSavePackage: Save=147.11ms
+[2017.10.14-10.37.25:026][251]LogSavePackage: Moving '../../../../../../Users/Andre/Documents/Unreal Projects/TutorialGameDev2/Tutorial2_AndreGema 4.17/Saved/2DSideScrollerCharacter62A5A8E549595DD256F515867D4866CF.tmp' to '../../../../../../Users/Andre/Documents/Unreal Projects/TutorialGameDev2/Tutorial2_AndreGema 4.17/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset'
+[2017.10.14-10.37.25:038][251]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Andre/Documents/Unreal Projects/TutorialGameDev2/Tutorial2_AndreGema 4.17/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset
+[2017.10.14-10.37.27:190][433]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.14-10.37.27:220][433]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2017.10.14-10.37.27:220][433]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.14-10.37.27:221][433]PIE: New page: PIE session: MyLevel (15 Oct 2017 00:37:27)
+[2017.10.14-10.37.27:221][433]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_MyLevel
+[2017.10.14-10.37.27:224][433]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002856s)
+[2017.10.14-10.37.27:224][433]LogAIModule: Creating AISystem for world MyLevel
+[2017.10.14-10.37.27:224][433]LogPlayLevel: PIE: World Init took: (0.000801s)
+[2017.10.14-10.37.27:225][433]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/MyLevel.MyLevel to /Game/2DSideScrollerBP/Maps/UEDPIE_0_MyLevel.MyLevel (0.003926s)
+[2017.10.14-10.37.27:256][433]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.14-10.37.27:268][433]LogInit: FAudioDevice initialized.
+[2017.10.14-10.37.27:308][433]LogLoad: Game class is 'MyGameMode_C'
+[2017.10.14-10.37.27:317][433]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_MyLevel.MyLevel up for play (max tick rate 0) at 2017.10.14-17.37.27
+[2017.10.14-10.37.27:321][433]LogWorld: Bringing up level for play took: 0.010129
+[2017.10.14-10.37.27:325][433]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_MyLevel 0.246
+[2017.10.14-10.37.27:326][433]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2017.10.14-10.37.42:022][132]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2017.10.14-10.37.42:089][132]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2017.10.14-10.38.16:559][994]LogSavePackage: Save=115.25ms
+[2017.10.14-10.38.16:559][994]LogSavePackage: Moving '../../../../../../Users/Andre/Documents/Unreal Projects/TutorialGameDev2/Tutorial2_AndreGema 4.17/Saved/MyLevel_Auto938060C65432E21DB2B742E94A94FF998.tmp' to '../../../../../../Users/Andre/Documents/Unreal Projects/TutorialGameDev2/Tutorial2_AndreGema 4.17/Saved/Autosaves/Game/2DSideScrollerBP/Maps/MyLevel_Auto9.umap'
+[2017.10.14-10.38.16:561][994]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Andre/Documents/Unreal Projects/TutorialGameDev2/Tutorial2_AndreGema 4.17/Saved/Autosaves/Game/2DSideScrollerBP/Maps/MyLevel_Auto9.umap
+[2017.10.14-10.38.16:567][994]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/MyLevel' took 0.301
+[2017.10.14-10.38.16:567][994]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.301
+[2017.10.14-10.38.16:569][994]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScrollerBP/Blueprints/EnemyBP] ([1] browsable assets)...
+[2017.10.14-10.38.16:570][994]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Blueprints/EnemyBP]
+[2017.10.14-10.38.16:785][994]LogSavePackage: Save=123.17ms
+[2017.10.14-10.38.16:785][994]LogSavePackage: Moving '../../../../../../Users/Andre/Documents/Unreal Projects/TutorialGameDev2/Tutorial2_AndreGema 4.17/Saved/EnemyBP_Auto941346CCC41D9881F40A97AB128ED67D5.tmp' to '../../../../../../Users/Andre/Documents/Unreal Projects/TutorialGameDev2/Tutorial2_AndreGema 4.17/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/EnemyBP_Auto9.uasset'
+[2017.10.14-10.38.16:786][994]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Andre/Documents/Unreal Projects/TutorialGameDev2/Tutorial2_AndreGema 4.17/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/EnemyBP_Auto9.uasset
+[2017.10.14-10.38.16:786][994]LogFileHelpers: Auto-saving content packages took 0.218
+[2017.10.14-10.38.47:509][755]LogEditorTransaction: Undo Set actor scale
+[2017.10.14-10.42.50:685][755]LogStats: FPlatformStackWalk::StackWalkAndDump - 243.045 s
+[2017.10.14-10.42.50:685][755]LogOutputDevice: Error: === Handled ensure: ===
+[2017.10.14-10.42.50:685][755]LogOutputDevice: Error: 
+[2017.10.14-10.42.50:685][755]LogOutputDevice: Error: Ensure condition failed: !GIsTransacting [File:D:\Build\++UE4+Release-4.17+Compile\Sync\Engine\Source\Editor\UnrealEd\Classes\Editor/TransBuffer.h] [Line: 72]
+[2017.10.14-10.42.50:685][755]LogOutputDevice: Error: 
+[2017.10.14-10.42.50:685][755]LogOutputDevice: Error: Stack: 
+[2017.10.14-10.42.50:685][755]LogOutputDevice: Error: UE4Editor-Core.dll!FWindowsPlatformStackWalk::StackWalkAndDump() [d:\build\++ue4+release-4.17+compile\sync\engine\source\runtime\core\private\windows\windowsplatformstackwalk.cpp:200]
+[2017.10.14-10.42.50:685][755]LogOutputDevice: Error: UE4Editor-Core.dll!FDebug::EnsureFailed() [d:\build\++ue4+release-4.17+compile\sync\engine\source\runtime\core\private\misc\assertionmacros.cpp:233]
+[2017.10.14-10.42.50:685][755]LogOutputDevice: Error: UE4Editor-Core.dll!FDebug::OptionallyLogFormattedEnsureMessageReturningFalse() [d:\build\++ue4+release-4.17+compile\sync\engine\source\runtime\core\private\misc\assertionmacros.cpp:360]
+[2017.10.14-10.42.50:685][755]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!UTransBuffer::BeginInternal<FTransaction>() [d:\build\++ue4+release-4.17+compile\sync\engine\source\editor\unrealed\classes\editor\transbuffer.h:72]
+[2017.10.14-10.42.50:685][755]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!UEditorEngine::BeginTransaction() [d:\build\++ue4+release-4.17+compile\sync\engine\source\editor\unrealed\private\editorserver.cpp:1097]
+[2017.10.14-10.42.50:685][755]LogOutputDevice: Error: UE4Editor-DetailCustomizations.dll!FComponentTransformDetails::ScaleObject() [d:\build\++ue4+release-4.17+compile\sync\engine\source\editor\detailcustomizations\private\componenttransformdetails.cpp:1403]
+[2017.10.14-10.42.50:685][755]LogOutputDevice: Error: UE4Editor-DetailCustomizations.dll!FComponentTransformDetails::OnSetScale() [d:\build\++ue4+release-4.17+compile\sync\engine\source\editor\detailcustomizations\private\componenttransformdetails.cpp:1372]
+[2017.10.14-10.42.50:913][755]LogOutputDevice: Error: UE4Editor-DetailCustomizations.dll!TBaseSPMethodDelegateInstance<0,FComponentTransformDetails,0,TTypeWrapper<void> __cdecl(float,enum ETextCommit::Type),int>::Execute() [d:\build\++ue4+release-4.17+compile\sync\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:327]
+[2017.10.14-10.42.50:914][755]LogOutputDevice: Error: UE4Editor-DetailCustomizations.dll!TBaseSPMethodDelegateInstance<0,FComponentTransformDetails,0,void __cdecl(float,enum ETextCommit::Type),int>::ExecuteIfSafe() [d:\build\++ue4+release-4.17+compile\sync\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:434]
+[2017.10.14-10.42.50:914][755]LogOutputDevice: Error: UE4Editor-Slate.dll!SNumericEntryBox<float>::SendChangesFromText() [d:\build\++ue4+release-4.17+compile\sync\engine\source\runtime\slate\public\widgets\input\snumericentrybox.h:467]
+[2017.10.14-10.42.50:914][755]LogOutputDevice: Error: UE4Editor-Slate.dll!SNumericEntryBox<float>::OnTextCommitted() [d:\build\++ue4+release-4.17+compile\sync\engine\source\runtime\slate\public\widgets\input\snumericentrybox.h:415]
+[2017.10.14-10.42.50:914][755]LogOutputDevice: Error: UE4Editor-Slate.dll!TBaseSPMethodDelegateInstance<0,SNumericEntryBox<float>,0,TTypeWrapper<void> __cdecl(FText const & __ptr64,enum ETextCommit::Type)>::Execute() [d:\build\++ue4+release-4.17+compile\sync\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:327]
+[2017.10.14-10.42.50:914][755]LogOutputDevice: Error: UE4Editor-Slate.dll!TBaseSPMethodDelegateInstance<0,SNumericEntryBox<float>,0,void __cdecl(FText const & __ptr64,enum ETextCommit::Type)>::ExecuteIfSafe() [d:\build\++ue4+release-4.17+compile\sync\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:434]
+[2017.10.14-10.42.50:914][755]LogOutputDevice: Error: UE4Editor-Slate.dll!FSlateEditableTextLayout::HandleFocusLost() [d:\build\++ue4+release-4.17+compile\sync\engine\source\runtime\slate\private\widgets\text\slateeditabletextlayout.cpp:697]
+[2017.10.14-10.42.50:914][755]LogOutputDevice: Error: UE4Editor-Slate.dll!FSlateApplication::SetUserFocus() [d:\build\++ue4+release-4.17+compile\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:2795]
+[2017.10.14-10.42.50:914][755]LogOutputDevice: Error: UE4Editor-Slate.dll!FSlateApplication::SetUserFocus() [d:\build\++ue4+release-4.17+compile\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:2678]
+[2017.10.14-10.42.50:914][755]LogOutputDevice: Error: UE4Editor-Slate.dll!FSlateApplication::ClearKeyboardFocus() [d:\build\++ue4+release-4.17+compile\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:2556]
+[2017.10.14-10.42.50:914][755]LogOutputDevice: Error: UE4Editor-Kismet.dll!SKismetInspector::ShowDetailsForObjects() [d:\build\++ue4+release-4.17+compile\sync\engine\source\editor\kismet\private\skismetinspector.cpp:461]
+[2017.10.14-10.42.50:914][755]LogOutputDevice: Error: UE4Editor-Kismet.dll!FBlueprintEditor::OnSelectionUpdated() [d:\build\++ue4+release-4.17+compile\sync\engine\source\editor\kismet\private\blueprinteditor.cpp:932]
+[2017.10.14-10.42.50:914][755]LogOutputDevice: Error: UE4Editor-Kismet.dll!TBaseSPMethodDelegateInstance<0,FBlueprintEditor,0,TTypeWrapper<void> __cdecl(TArray<TSharedPtr<FSCSEditorTreeNode,0>,FDefaultAllocator> const & __ptr64)>::Execute() [d:\build\++ue4+release-4.17+compile\sync\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:327]
+[2017.10.14-10.42.50:914][755]LogOutputDevice: Error: UE4Editor-Kismet.dll!TBaseSPMethodDelegateInstance<0,FBlueprintEditor,0,void __cdecl(TArray<TSharedPtr<FSCSEditorTreeNode,0>,FDefaultAllocator> const & __ptr64)>::ExecuteIfSafe() [d:\build\++ue4+release-4.17+compile\sync\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:434]
+[2017.10.14-10.42.50:914][755]LogOutputDevice: Error: UE4Editor-Kismet.dll!SSCSEditor::OnTreeSelectionChanged() [d:\build\++ue4+release-4.17+compile\sync\engine\source\editor\kismet\private\sscseditor.cpp:5684]
+[2017.10.14-10.42.50:998][755]LogOutputDevice: Error: UE4Editor-Kismet.dll!TBaseSPMethodDelegateInstance<0,SSCSEditor,0,TTypeWrapper<void> __cdecl(TSharedPtr<FSCSEditorTreeNode,0>,enum ESelectInfo::Type)>::Execute() [d:\build\++ue4+release-4.17+compile\sync\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:327]
+[2017.10.14-10.42.50:998][755]LogOutputDevice: Error: UE4Editor-Kismet.dll!TBaseSPMethodDelegateInstance<0,SSCSEditor,0,void __cdecl(TSharedPtr<FSCSEditorTreeNode,0>,enum ESelectInfo::Type)>::ExecuteIfSafe() [d:\build\++ue4+release-4.17+compile\sync\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:434]
+[2017.10.14-10.42.50:998][755]LogOutputDevice: Error: UE4Editor-Kismet.dll!TBaseDelegate<void,TSharedPtr<FSCSEditorTreeNode,0>,enum ESelectInfo::Type>::ExecuteIfBound() [d:\build\++ue4+release-4.17+compile\sync\engine\source\runtime\core\public\delegates\delegatesignatureimpl.inl:624]
+[2017.10.14-10.42.50:998][755]LogOutputDevice: Error: UE4Editor-Kismet.dll!SListView<TSharedPtr<FSCSEditorTreeNode,0> >::Private_SignalSelectionChanged() [d:\build\++ue4+release-4.17+compile\sync\engine\source\runtime\slate\public\widgets\views\slistview.h:725]
+[2017.10.14-10.42.50:998][755]LogOutputDevice: Error: UE4Editor-Kismet.dll!FBlueprintEditor::ClearSelectionStateFor() [d:\build\++ue4+release-4.17+compile\sync\engine\source\editor\kismet\private\blueprinteditor.cpp:800]
+[2017.10.14-10.42.50:998][755]LogOutputDevice: Error: UE4Editor-Kismet.dll!FBlueprintEditor::HandleUndoTransaction() [d:\build\++ue4+release-4.17+compile\sync\engine\source\editor\kismet\private\blueprinteditor.cpp:2987]
+[2017.10.14-10.42.50:998][755]LogOutputDevice: Error: UE4Editor-Kismet.dll!FBlueprintEditor::PostUndo() [d:\build\++ue4+release-4.17+compile\sync\engine\source\editor\kismet\private\blueprinteditor.cpp:3001]
+[2017.10.14-10.42.50:998][755]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!UEditorEngine::BroadcastPostUndo() [d:\build\++ue4+release-4.17+compile\sync\engine\source\editor\unrealed\private\editorserver.cpp:5074]
+[2017.10.14-10.42.50:998][755]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!UEditorEngine::HandleTransactorUndo() [d:\build\++ue4+release-4.17+compile\sync\engine\source\editor\unrealed\private\editorserver.cpp:1185]
+[2017.10.14-10.42.50:998][755]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!TBaseUObjectMethodDelegateInstance<0,UEditorEngine,TTypeWrapper<void> __cdecl(FUndoSessionContext,bool)>::Execute() [d:\build\++ue4+release-4.17+compile\sync\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:766]
+[2017.10.14-10.42.50:998][755]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!TBaseUObjectMethodDelegateInstance<0,UEditorEngine,void __cdecl(FUndoSessionContext,bool)>::ExecuteIfSafe() [d:\build\++ue4+release-4.17+compile\sync\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:856]
+[2017.10.14-10.42.50:999][755]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!TBaseMulticastDelegate<void,FUndoSessionContext,bool>::Broadcast() [d:\build\++ue4+release-4.17+compile\sync\engine\source\runtime\core\public\delegates\delegatesignatureimpl.inl:937]
+[2017.10.14-10.42.50:999][755]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!UTransBuffer::Undo() [d:\build\++ue4+release-4.17+compile\sync\engine\source\editor\unrealed\private\editortransaction.cpp:876]
+[2017.10.14-10.42.50:999][755]LogOutputDevice: Error: UE4Editor-Kismet.dll!TBaseSPMethodDelegateInstance<0,FBlueprintEditor,0,TTypeWrapper<void> __cdecl(void)>::Execute() [d:\build\++ue4+release-4.17+compile\sync\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:327]
+[2017.10.14-10.42.50:999][755]LogOutputDevice: Error: UE4Editor-Kismet.dll!TBaseSPMethodDelegateInstance<0,FBlueprintEditor,0,void __cdecl(void)>::ExecuteIfSafe() [d:\build\++ue4+release-4.17+compile\sync\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:434]
+[2017.10.14-10.42.50:999][755]LogOutputDevice: Error: UE4Editor-Slate.dll!FUICommandList::ConditionalProcessCommandBindings() [d:\build\++ue4+release-4.17+compile\sync\engine\source\runtime\slate\private\framework\commands\uicommandlist.cpp:216]
+[2017.10.14-10.42.50:999][755]LogOutputDevice: Error: UE4Editor-Slate.dll!FUICommandList::ProcessCommandBindings() [d:\build\++ue4+release-4.17+compile\sync\engine\source\runtime\slate\private\framework\commands\uicommandlist.cpp:160]
+[2017.10.14-10.42.50:999][755]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!FBaseToolkit::ProcessCommandBindings() [d:\build\++ue4+release-4.17+compile\sync\engine\source\editor\unrealed\private\toolkits\basetoolkit.cpp:74]
+[2017.10.14-10.42.50:999][755]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!SStandaloneAssetEditorToolkitHost::OnKeyDown() [d:\build\++ue4+release-4.17+compile\sync\engine\source\editor\unrealed\private\toolkits\sstandaloneasseteditortoolkithost.cpp:324]
+[2017.10.14-10.42.50:999][755]LogOutputDevice: Error: UE4Editor-Slate.dll!<lambda_2afcd964c763e269e2d1a63f3a72f846>::operator()() [d:\build\++ue4+release-4.17+compile\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:4771]
+[2017.10.14-10.42.50:999][755]LogOutputDevice: Error: UE4Editor-Slate.dll!FEventRouter::Route<FReply,FEventRouter::FBubblePolicy,FKeyEvent,<lambda_2afcd964c763e269e2d1a63f3a72f846> >() [d:\build\++ue4+release-4.17+compile\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:232]
+[2017.10.14-10.42.50:999][755]LogOutputDevice: Error: UE4Editor-Slate.dll!FEventRouter::RouteAlongFocusPath<FEventRouter::FBubblePolicy,<lambda_2afcd964c763e269e2d1a63f3a72f846>,FKeyEvent>() [d:\build\++ue4+release-4.17+compile\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:214]
+[2017.10.14-10.42.50:999][755]LogOutputDevice: Error: UE4Editor-Slate.dll!FSlateApplication::ProcessKeyDownEvent() [d:\build\++ue4+release-4.17+compile\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:4769]
+[2017.10.14-10.42.50:999][755]LogOutputDevice: Error: UE4Editor-Slate.dll!FSlateApplication::OnKeyDown() [d:\build\++ue4+release-4.17+compile\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:4681]
+[2017.10.14-10.42.50:999][755]LogOutputDevice: Error: UE4Editor-Core.dll!FWindowsApplication::ProcessDeferredMessage() [d:\build\++ue4+release-4.17+compile\sync\engine\source\runtime\core\private\windows\windowsapplication.cpp:1553]
+[2017.10.14-10.42.50:999][755]LogOutputDevice: Error: UE4Editor-Core.dll!FWindowsApplication::DeferMessage() [d:\build\++ue4+release-4.17+compile\sync\engine\source\runtime\core\private\windows\windowsapplication.cpp:2161]
+[2017.10.14-10.42.50:999][755]LogOutputDevice: Error: UE4Editor-Core.dll!FWindowsApplication::ProcessMessage() [d:\build\++ue4+release-4.17+compile\sync\engine\source\runtime\core\private\windows\windowsapplication.cpp:881]
+[2017.10.14-10.42.50:999][755]LogOutputDevice: Error: UE4Editor-Core.dll!FWindowsApplication::AppWndProc() [d:\build\++ue4+release-4.17+compile\sync\engine\source\runtime\core\private\windows\windowsapplication.cpp:721]
+[2017.10.14-10.42.51:000][755]LogOutputDevice: Error: USER32.dll!0x00000000C292BC50
+[2017.10.14-10.42.51:000][755]LogOutputDevice: Error: USER32.dll!0x00000000C292B5CF
+[2017.10.14-10.42.51:000][755]LogOutputDevice: Error: UE4Editor-Core.dll!FWindowsPlatformMisc::PumpMessages() [d:\build\++ue4+release-4.17+compile\sync\engine\source\runtime\core\private\windows\windowsplatformmisc.cpp:1009]
+[2017.10.14-10.42.51:000][755]LogOutputDevice: Error: UE4Editor.exe!FEngineLoop::Tick() [d:\build\++ue4+release-4.17+compile\sync\engine\source\runtime\launch\private\launchengineloop.cpp:3151]
+[2017.10.14-10.42.51:000][755]LogOutputDevice: Error: UE4Editor.exe!GuardedMain() [d:\build\++ue4+release-4.17+compile\sync\engine\source\runtime\launch\private\launch.cpp:166]
+[2017.10.14-10.42.51:000][755]LogOutputDevice: Error: UE4Editor.exe!GuardedMainWrapper() [d:\build\++ue4+release-4.17+compile\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:134]
+[2017.10.14-10.42.51:034][755]LogOutputDevice: Error: UE4Editor.exe!WinMain() [d:\build\++ue4+release-4.17+compile\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:210]
+[2017.10.14-10.42.51:034][755]LogOutputDevice: Error: UE4Editor.exe!__scrt_common_main_seh() [f:\dd\vctools\crt\vcstartup\src\startup\exe_common.inl:253]
+[2017.10.14-10.42.51:034][755]LogOutputDevice: Error: KERNEL32.DLL!0x00000000C2F52774
+[2017.10.14-10.42.51:034][755]LogOutputDevice: Error: ntdll.dll!0x00000000C4EB0D51
+[2017.10.14-10.42.51:034][755]LogOutputDevice: Error: 
+[2017.10.14-10.42.51:039][755]LogStats:                SubmitErrorReport -  0.000 s
